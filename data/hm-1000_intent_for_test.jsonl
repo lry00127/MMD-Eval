@@ -1,0 +1,1000 @@
+{"sentence": "这种症状的持续时间有多久了？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "此外，你是否伴有任何其他症状，如胸痛、呼吸困难、手臂或脸部无力、头痛或者说话困难等?", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "然后，这些症状有没有伴随瘙痒感或者是疼痛感呢？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "不过为了更具体确定你的情况，我还需要问一个问题——你在运动后还有其他不适的症状吗，比如头晕、胸闷或者心率异常等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你的左肩的麻木和紧张是否是在特定的活动(如举重或使用电脑)后才出现，还是无论你做什么都会感到不舒服？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "另外，你有心脏病或者糖尿病的既往史吗？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "请问这种情况是突然出现还是持续的？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "在什么情况下会出现？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "能告诉我您的年龄吗？", "label": ["ask_age"], "symptom_description": "0"}
+{"sentence": "首先，你能告诉我这个症状已经持续了多久吗？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "当您说\"小腹疼\"，您是指的周期性的疼痛，比如与您的经期相吻合，还是持续性的疼痛？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "请问你是否已经就这个问题寻求过医生的建议？", "label": [], "symptom_description": "0"}
+{"sentence": "请问你是否正在经历任何症状，比如腰背痛、下肢痛、感觉异常或走路不稳等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "请问这些信息对您有所帮助吗？", "label": [], "symptom_description": "0"}
+{"sentence": "比如，您是否知道造成您低钠血症的原因？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "我下一个问题是：这些症状是长期存在，还是说突然出现的？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "并且，你曾经尝试过任何非手术的治疗方法吗，如物理治疗或药物治疗？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "请问你的医生有建议你修改药物治疗方案或调整饮水量吗？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "您眼睛红肿的程度怎么样？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "其他症状，如疼痛、视觉模糊、感觉到有异物、泪液分泌过多等还存在吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "您是否已经完成了医疗机构推荐的全部治疗疗程？", "label": ["ask_receiving_treatment"], "symptom_description": "0"}
+{"sentence": "并且，最近是否有过复诊，以评估眼睛状况和治愈进展？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "如果您在将来有任何不适或者相关问题，都欢迎随时向我咨询。", "label": [], "symptom_description": "0"}
+{"sentence": "为了更准确判断，您最近有过定期妇科检查（如阴道分泌物检查等）吗？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "那么，您最近是否有以下症状：如不正常的阴道排泄物（颜色、气味、质地变化）、疼痛或者瘙痒等？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "请问您是否已经被诊断为宫外孕？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "我理解您可能因为隐私原因可能不想指出具体的药物名称，但如果方便的话，能否告知你当前正在服用的降压药的具体名字？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "你说你已经在服用某种药物，我可以首先问一下，您现在的药物 regimen 是什么吗？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "请问您的病情怎么样，医生给您提出的治疗建议是什么？", "label": [], "symptom_description": "0"}
+{"sentence": "还有其他问题吗？", "label": [], "symptom_description": "0"}
+{"sentence": "您的具体情况是怎样的呢？", "label": [], "symptom_description": "0"}
+{"sentence": "例如，脑卒中是否有明显的功能残留损害？", "label": [], "symptom_description": "0"}
+{"sentence": "首先，请问您是否感到坐立不安，肛门部位不适，特别是在大便时呢？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "我想请问，这个瘙痒的症状是否伴随有其他症状，如红肿、烧灼感、皮肤白化或存在类似皮疹的变化？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "接下来，请问你是否有观察到便便产生色变（比如变血红色），或者是在擦拭肛门时卫生纸上有血迹呢？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "我想了解一下，你近期有没有更换过这些个人护理产品或洗衣液品牌？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "或者新用过润滑剂或避孕套等性行为相关产品？", "label": ["ask_coitus", "ask_living_habit"], "symptom_description": "0"}
+{"sentence": "请问你近期是否有血糖管理的问题，或者正在经历与激素相关的生理变化，例如怀孕或更年期?", "label": [], "symptom_description": "0"}
+{"sentence": "首先，借助您的描述，我想确认一下，您是否已经尝试过常规的清洁手段如使用温和的无香皂水清洗，但是问题依旧存在呢？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "接下来，我想问一下您是否有其他症状，比如尿频、尿急、尿痛或者泌尿系统的其他疾病病史？", "label": ["ask_symptom", "ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "变化情况如何？", "label": [], "symptom_description": "0"}
+{"sentence": "宫缩是否变得更频繁或更强烈了？", "label": [], "symptom_description": "0"}
+{"sentence": "能麻烦您告诉我您的息肉变大是如何发现的吗？", "label": [], "symptom_description": "0"}
+{"sentence": "它是突然增大的还是慢慢增大的？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "如果还有其他问题，欢迎随时向我咨询。", "label": [], "symptom_description": "0"}
+{"sentence": "受伤后你是否有出现一些不适的症状，比如疼痛、恶心、呕吐或者腹部肿胀？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "下一步我想了解的是你的月经周期的具体情况，比如，你的月经周期通常多长时间？", "label": [], "symptom_description": "0"}
+{"sentence": "俩三个月来一次月经是你最常见的月经规律，还是只是偶尔出现？", "label": [], "symptom_description": "0"}
+{"sentence": "这种情况持续了多久？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "你的月经流量如何，比以前少吗？", "label": [], "symptom_description": "0"}
+{"sentence": "例如，你具体的年龄是多少？", "label": ["ask_age"], "symptom_description": "0"}
+{"sentence": "你是否有其他相关症状，如异常体重增减、多毛、乳房分泌物或视力下降等？", "label": ["ask_symptom", "ask_physical_change"], "symptom_description": "0"}
+{"sentence": "你现在是第几胎，已经怀孕了多少周，疼痛的性质（如位置、疼痛强度等）？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "是否有其他症状，如出血，羊水破裂等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你在受伤后有没有出现发热或者腹部出血的迹象，比如黑色或带血的粪便？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "您能介绍一下这个息肉变大过程中，您有没有感到疼痛，发痒，或者是有任何的分泌物（比如泪水增多等）吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "您和您的伴侣是否在做爱之前或之后都进行了适当的个人卫生保健措施？", "label": ["ask_coitus"], "symptom_description": "0"}
+{"sentence": "那么这个压迫感的头痛会影响您的日常活动吗？", "label": [], "symptom_description": "0"}
+{"sentence": "例如，会引起恶心、呕吐，光线敏感，噪音敏感，或者进行日常活动变得困难等情况吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "请问囊肿是否在孩子活动或者使用手指时变大，轻松或静止时变小呢? 这种现象在腱鞘囊肿中很常见，并且很有帮助以确认诊断。", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "您所说的下体不适具体是什么症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "例如，有无疼痛、分泌物改变、尿频、尿痛等症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "三岁女孩的囊肿长期迅速增大，还是慢慢增大的？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "增大过程中有伴随疼痛、走路困难、关节活动受限等症状吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "为了尽可能正确地理解您的状况，我想问一下，您的头疼是怎样的疼痛？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "例如，疼痛是否在头部的某一个固定区域？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "疼痛感觉是钝痛，尖锐痛，还是压迫感？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "是持续的疼痛，还是阵发的？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "这个婴儿是否有其他健康问题，或者有家族中的其它人有相关的疾病史吗？", "label": ["ask_family_history"], "symptom_description": "0"}
+{"sentence": "感觉到宫颈糜烂可能又复发了，是否有出现与之前类似的症状，比如有没有出现异常的阴道分泌物、腹部不适或者性生活疼痛等症状呢？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "为了给你更准确的建议，请问你是否可以描述一下症状，并且告诉我你是否最近已经看过牙科医生了呢？", "label": ["ask_receiving_treatment", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "可以请你详细描述一下婴儿的具体症状和症状出现的时间么？", "label": ["ask_symptom_duration", "ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "对于你的分泌物异常，能否进一步描述一下具体的状态，比如颜色、质地、气味以及是否伴有瘙痒等症状呢？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "再深入了解一下, 你的口腔出血和红肿是紧跟在装了烤瓷牙后就出现的吗？", "label": ["ask_symptom_duration", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "能否请您描述一下腹痛是在什么位置，更具体一些？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "例如：腹部左上，右上，左下，右下，还是腹部中间？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "您有没有其他的症状，比如：发热、反复呕吐、便秘或腹部膨胀等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "首先，您的疼痛是否固定在某个部位，还是会移动或者扩散到其他区域？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "请问患者现在进行血液学监测吗？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "并且，患者近期是否见过医生或接受过任何治疗？", "label": ["ask_receiving_treatment", "ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "另外，您的疼痛是否与体位、运动、饮食或呼吸有关？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "然后，我想问的是，除了血小板和白细胞的异常，患者还有其他症状吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "例如，发热，出汗，疲劳，出血或瘀点，失重，肿大的淋巴结或脾，等等？", "label": ["ask_symptom", "ask_physical_change"], "symptom_description": "0"}
+{"sentence": "请问疼痛是否在进食萝卜后立即发生？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "还是有一段时间的延迟？", "label": [], "symptom_description": "0"}
+{"sentence": "首先，这次疼痛是否是第一次出现，和你以前的状况有何区别？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "这个情况是突然发生的，还是逐渐出现的？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "请问在皮肤变化出现前，你是否曾接触过任何可能的过敏原，比如新的清洁剂、化妆品、草药或是近期改变了饮食习惯？", "label": ["ask_living_habit", "ask_contact_history"], "symptom_description": "0"}
+{"sentence": "在你确认怀孕之前，你是否已经完成了治疗并进行了再次检查，以确认感染已经清除？", "label": ["ask_receiving_treatment", "ask_medical_examination", "ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "疙瘩的出现是否在使用新洗衣液和调整饮食后很快就开始，又是否在暴露这两种可能的过敏源后迅速出现或者恶化？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "你是否方便尽快联系你的医生进行咨询？", "label": [], "symptom_description": "0"}
+{"sentence": "此外，我想知道患者是否有意识障碍? 判断是否可以进行常常事物理解、是否反应迟钝或者是否有烦躁、昏睡等情况有助于对疾病的进一步诊断。", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "如果你接下来有任何医学问题或者关于你的疾病有任何疑惑，随时欢迎向我提问。", "label": [], "symptom_description": "0"}
+{"sentence": "您的出血是稀稀拉拉的小量出血，还是发生大量血流、像月经一样的出血？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "关于外用溃疡散的问题，想要了解您是否在使用这款药物时出现过过敏反应、疼痛加重、出血增多等不适现象？", "label": ["ask_symptom", "ask_allergic_history"], "symptom_description": "0"}
+{"sentence": "您现在有没有常见的耳鸣相关症状，比如草螟感觉、头晕或听力下降？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你目前身体有没有其他不适的地方？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "比如发热、寒战、恶心或者体力下降等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "您的耳鸣是否是单侧的还是双侧的？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "耳鸣的声音是什么样的？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "例如：嗡嗡声、鸣响声或破裂声等？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "你觉得你的伤口痊愈得如何呢？", "label": [], "symptom_description": "0"}
+{"sentence": "有没有出现任何并发症，例如发炎、感染、肿胀、剧烈疼痛或出血？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你最近计划去医院就诊吗？", "label": [], "symptom_description": "0"}
+{"sentence": "或者你有没有医生可以通过电话或在线会诊进行咨询？", "label": [], "symptom_description": "0"}
+{"sentence": "请问您的症状表现为怎样？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "既然你曾被诊断为慢性支气管炎，并且这次的症状比以前严重，我想问的是，你是否有发热或者症状突然加重的情况？", "label": ["ask_symptom_duration", "ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "您说的瘙痒情况是在特定的身体部位吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "比如阴道部位，还是全身都会感到瘙痒？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "如果有任何对药物副作用的担忧或者你有任何疑问，请告诉我，我会尽我所能对你需要关注的问题予以解答。", "label": [], "symptom_description": "0"}
+{"sentence": "你有没有以前诊断过的慢性疾病，比如呼吸道疾病（如哮喘、COPD等）、心脏疾病或者其他健康问题？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "那么，你在试图站立或轻度行走时，感觉脚部有什么不适吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "如疼痛、肿胀或者不稳定等症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "对于你是否可以开始行走，首先我想询问的是，医生在拆除石膏后是否进行了影像学检查（如X射线）来确认骨折的愈合程度？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "下一个问题，瘙痒的症状是否伴有其他疾病的迹象，例如异样的分泌物（颜色，质地或气味改变），疼痛，发红，肿胀或尿液烧灼感等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你能描述一下这个硬块的特点吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "比如位置，大小变化，表面光滑否，有无移动性，有无伴随皮肤或乳头的改变？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "你有没有注意到是否存在其他症状，比如乳房的疼痛，红肿，体重骤减，乏力或者其他身体不适吗？", "label": ["ask_symptom", "ask_physical_change"], "symptom_description": "0"}
+{"sentence": "但你是否有任何其他的症状，例如异常的阴道出血，盆腔痛，便秘或小便频繁等? 这些可能是子宫肥大的表现。", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你的医生有没有为你安排进一步的检查，或给你其他的建议吗?", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "您有定期进行男性健康检查，包括前列腺特异性抗原(PSA)以及尿液分析吗？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "你是否有其它相关症状，例如腹痛、尿频、尿急、尿痛或是体重显著下降的情况？", "label": ["ask_symptom", "ask_physical_change"], "symptom_description": "0"}
+{"sentence": "首先，请问你的症状已经持续多久了？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "如果您有任何足疣的疑虑或者其他健康问题需要咨询，随时告诉我。", "label": [], "symptom_description": "0"}
+{"sentence": "为了更准确地了解您的修复进度，您最近的复查X光显示恢复情况如何？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "医生对您最新的复查结果有何评估？", "label": [], "symptom_description": "0"}
+{"sentence": "那么，你有下列症状中的任何一种吗：疼痛、呕吐、失重、吞咽困难、声音嘶哑或是感觉有东西在喉咙里卡住？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "您在吃鳝鱼后有出现足疣加重的情况吗？", "label": ["ask_past_diagonsis", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "关于中成药，我想要了解一些更具体的信息，你是否有某些特定的、不能接受的副作用，比如头痛、恶心或者其他？", "label": ["ask_symptom", "ask_allergic_history"], "symptom_description": "0"}
+{"sentence": "骨裂具体是如何诊断的？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "例如，通过X光或MRI，是否由医生诊断？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "为了给您提供更准确的建议，我需要了解一下，您这三个月来有没有出现过口腔内其他问题，比如口疼，肿胀或者感染等症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "如果你仍然有任何问题或者需要进一步的解释，请随时向我提问。", "label": [], "symptom_description": "0"}
+{"sentence": "我想进一步了解，你在过往的治疗中，有没有使用过药物来促进卵巢功能或改善卵巢的状况？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "例如备孕期间使用过黏贴素、促性腺激素等药物吗？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "您能给我更多详情吗？", "label": [], "symptom_description": "0"}
+{"sentence": "当您说\"疣\"，您是指哪种类型的疣？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "例如，它是足部疣、扁平疣还是生殖器疣？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "还有，您提问的目的是想了解鳝鱼是否会影响疣的情况，还是害怕鳝鱼能引起疣？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "您能告诉我一下您是否在事故后就口腔问题寻求过专业的口腔检查和治疗，或者您是否在最近一段时间内进行过口腔X线检查吗？", "label": ["ask_receiving_treatment", "ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "你能告诉我一些症状吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "例如，你是否有异味分泌物、瘙痒、疼痛或是烧灼感等症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "为了更好地为您提供建议，我想知道您是否已经考虑过试管婴儿（IVF）这样的辅助生殖技术？", "label": ["ask_trauma_surgery"], "symptom_description": "0"}
+{"sentence": "期待听到你的好消息，同时如果有任何问题或关注，请随时联系。", "label": [], "symptom_description": "0"}
+{"sentence": "为了进一步确认症状，我想向你提一个问题：你所说的异味，它是否像鱼腥味，非常明显？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "关于您的问题，是否能通过手术使输卵管复通，这主要取决于具体的临床情况。", "label": [], "symptom_description": "0"}
+{"sentence": "首先，请问您的当前年龄是多少？", "label": ["ask_age"], "symptom_description": "0"}
+{"sentence": "你最近有这样的计划吗？", "label": [], "symptom_description": "0"}
+{"sentence": "请问你的双脚还是单脚肿胀？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "方便具体描述下报告的内容吗？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "比如滴度，或者报告有没有显示其他的异常？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "首先，请问您是否已经控制好了您现在的高血压了呢？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "你能告诉我你的脚肿是突然发生的还是逐渐加重的吗？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "因此，开始运动规划之前，您是否已经咨询过医生，并得到医生的批准进行运动了呢？", "label": ["ask_receiving_treatment"], "symptom_description": "0"}
+{"sentence": "您目前每周有几次大便，且大便的形状硬度怎么样？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "请问您拉稀的次数超过了一天通常的排便次数，且已经持续了多久？", "label": ["ask_symptom_duration", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "您是否有甲状腺疾病的家族史，或者曾经接受过甲状腺功能的检查？", "label": ["ask_medical_examination", "ask_family_history"], "symptom_description": "0"}
+{"sentence": "关于发热，您有监测过体温吗？", "label": [], "symptom_description": "0"}
+{"sentence": "如果有，你的体温有升高吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "或者有没有感觉身体常常冷汗，发冷等低温症状？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "不过，接下来，我想了解一下您的恶心和呕吐症状的频度和严重程度，可以吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "例如，您是在每顿饭后都会感到恶心和呕吐吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "还是只在某些特定情况下才会出现？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "您能吃下多少食物？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "我的下一个问题是：你有没有其他的症状，比如关节疼痛、皮疹、咳嗽、腹痛、尿频或者其他任何症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "请问您的疼痛是一直存在还是会有间隙，那就是是否为持续性的或周期性的？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "为了更好地理解您的情况，我想问您，这种行为是否正在对您的日常生活造成明显的干扰？", "label": [], "symptom_description": "0"}
+{"sentence": "这个包大概出现了多久？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "有没有观察到颜色、表面或者质地的变化？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "现在我想了解一下，这种疼痛是否伴随着身体其他任何症状，比如恶心、呕吐、发热、尿频、尿痛、排便习惯的改变等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "是否能告诉我，这个包周围有没有发红、发热，或者有没有分泌物？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "这个包在压力或是触摸时，有没有疼痛感？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "我想知道，您是否在这方面有任何困扰？", "label": [], "symptom_description": "0"}
+{"sentence": "如果有其他问题，随时向我咨询。", "label": [], "symptom_description": "0"}
+{"sentence": "下一步，我想问你的是，你有半年以上的时间都有这些失眠和焦虑的症状吗？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "在这方面，有一个问题我想进一步了解，你是否接受过孕期糖尿病的筛查？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "祝你的孕期顺利，如果你有任何其他问题或者关注，随时向我提问。", "label": [], "symptom_description": "0"}
+{"sentence": "首先，我想问的是，你有没有感到特别紧张或者焦虑？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "例如，你是否经常为了一些问题或事情而烦躁不安，或者感觉心情压抑、心跳加快等？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "在准备怀孕和怀孕期间，你有没有定期向医疗专业人员咨询和健康检查？", "label": ["ask_receiving_treatment", "ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "首先，这种情况是否在两侧乳房都出现，还是只在一侧出现？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "进一步的问题是：这个肿胀破裂以前是否存在？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "还是说相对突然出现的？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "您感觉到它在增大吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "接下来，请问一下，这种增大和硬块的出现，是慢慢形成的，还是突然出现的？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "第一个问题是：您能描述一下肿胀和破裂的具体位置和程度吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "例如，是靠近肛门的内侧、外侧还是更远的地方？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "破裂的面积大概有多大？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "破裂的地方是否有流血或者排出其他液体？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "请问，你的疼痛状况常见吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "是持续性的，还是只有在吃冷热食物或触碰时才疼痛？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "请问您最近有没有做过任何可能导致皮肤受伤的事情？", "label": ["ask_trauma_surgery"], "symptom_description": "0"}
+{"sentence": "比如新的性行为、男性伴侣是否存在 genital warts 等情况？", "label": ["ask_coitus", "ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "关于您新发现的阴道口问题，您能描述一下它的特征吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "例如，它的颜色、大小、形状、表面（比如是光滑还是凹凸不平）以及是否疼痛或瘙痒？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "接下来，我想知道你现在怀孕多久了？", "label": [], "symptom_description": "0"}
+{"sentence": "首先我们需要确定，这个不能弯曲的情况，是全程不能弯曲还是只是某个角度不能弯曲呢？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "你提到一颗钢针固定，感觉有点密集，是否能询问你是否感到显著的局部疼痛或肿胀呢？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "您是否摄入了足够的水分？", "label": [], "symptom_description": "0"}
+{"sentence": "你能告诉我医生建议你采用的化疗方案吗？", "label": [], "symptom_description": "0"}
+{"sentence": "首先，能否描述一下你的小腹疼痛感觉？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "请问还有其他我可以帮助您的问题吗？", "label": [], "symptom_description": "0"}
+{"sentence": "祝你身体健康，如果还有任何问题，随时向我提问。", "label": [], "symptom_description": "0"}
+{"sentence": "请问我能帮助你理解的还有其他问题吗？", "label": [], "symptom_description": "0"}
+{"sentence": "如果可能，你能描述一下疼痛是钝痛还是尖锐的刺痛吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "还有，疼痛是否在晚上加剧，或者在你躺下时变得更糟？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "如果您将来还有任何医学问题，欢迎随时向我咨询。", "label": [], "symptom_description": "0"}
+{"sentence": "请问您有任何疼痛或不适的症状吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "请问您在日常生活中是否有频繁的尿意、疲劳、饥饿感或者体重下降等糖尿病的症状?", "label": ["ask_symptom", "ask_past_diagonsis", "ask_physical_change"], "symptom_description": "0"}
+{"sentence": "这方面，您是否在服用任何药物，包括处方药和非处方药？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "请问您的年龄和性别是多少？", "label": ["ask_age", "ask_gender"], "symptom_description": "0"}
+{"sentence": "是否患有其他医疗状况，例如肝硬化、肝炎或其他任何长期的健康问题？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "你是否有任何下列症状：尿失禁、排便困难或失禁、下肢异常麻木或肌肉无力？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你的月经周期是多少天呢，是否规律？", "label": [], "symptom_description": "0"}
+{"sentence": "在你的尝试过程中有任何疑问或者困惑，都可以随时向我或医疗专业人士提问。", "label": [], "symptom_description": "0"}
+{"sentence": "你有没有其他感染的迹象，比如红肿、疼痛、发热等症状呢？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你是否有经过专业指导进行伤口护理，比如正确的清洗和包扎方式？", "label": ["ask_receiving_treatment"], "symptom_description": "0"}
+{"sentence": "关于你的麻木感，它是偶尔出现，还是持续存在的？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "同时，你能描述一下这种麻木感的程度吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "例如，它是否影响你进行日常活动，比如走路？", "label": [], "symptom_description": "0"}
+{"sentence": "你目前的生活习惯和饮食如何呢？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "你有没有试过跟心理咨询师谈谈你现在的困难和压力，或者参加某种癌症患者的支持团体呢？", "label": ["ask_receiving_treatment"], "symptom_description": "0"}
+{"sentence": "首先，请问您是否有慢性疾病，比如高血压、糖尿病或心脏病？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "首先，我要明确一下你的说法，“看不见”是因为眼睑强烈的抽搐和痉挛，导致无法正常睁开，还是视力本身有所下降？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "如果你在查阅资料中有任何不解的问题，或者你希望更深入地了解某一主题，欢迎随时向我提问。", "label": [], "symptom_description": "0"}
+{"sentence": "另外，我还想了解一下，这种情况是突然出现的还是逐渐发展的？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "例如，你是否曾有过正常的性功能，但最近才变得无法勃起？", "label": ["ask_symptom_duration", "ask_symptom"], "symptom_description": "0"}
+{"sentence": "你有没有在做造影检查之前感到腹部痛，或者发现其他盆腔炎的症状，比如异常分泌物、发热、异常出血或者性交过程中感到疼痛等症状？", "label": ["ask_symptom", "ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "你有在造影检查之后与医生深入讨论过这个问题，或者你有被安排一些后续的治疗吗？", "label": ["ask_receiving_treatment"], "symptom_description": "0"}
+{"sentence": "我想要确定的更多信息有，你是否感到有任何不适或疼痛？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "是否有出血情况？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "为了能更好地提供医学建议，我需要更多关于你的信息：你的年龄是多少，男性或女性？", "label": ["ask_age", "ask_gender"], "symptom_description": "0"}
+{"sentence": "有没有任何其他的健康问题？", "label": [], "symptom_description": "0"}
+{"sentence": "你说的眼睛\"勉强能睁开\"和\"完全不能睁开\"，分别是左眼和右眼吗？", "label": [], "symptom_description": "0"}
+{"sentence": "或者这两种情况都会出现在两只眼睛上？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "你是否已经被诊断为癫痫病，并且正在接受医生的治疗？", "label": ["ask_receiving_treatment", "ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "但在此之前，你身体有没有其他不适的地方，比如晕厥，头晕，胸闷等等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你是否有其他的症状，比如发热、头痛、恶心、呕吐或者出血？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "另外，您有没有并发症状，比如恶心、呕吐、消瘦、或者是黑色、带血的大便？", "label": ["ask_symptom", "ask_physical_change"], "symptom_description": "0"}
+{"sentence": "首先，你的胃痛是否会在饮食后变得更糟糕，尤其是在食用油腻、辛辣或咖啡因含量高的食物后呢？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "关于胃痛，你能描述一下这种痛是持续的还是阵发的吗？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "同时、出现疼痛时您是否在吃食或者做其他特定的事情？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "首先，您是否有疼痛、胆囊炎、黄疸或其他胆囊结石并发症的症状？", "label": ["ask_symptom", "ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "此外，你是否有试过记录你的先兆和癫痫发作的情况？", "label": [], "symptom_description": "0"}
+{"sentence": "为了进一步确诊，您能具体描述一下您的疼痛情况吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "你所述的疼痛在进行剖宫产手术前是否有过这样的程度？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "除了疼痛的强度，你现在的痛感与以前在进行剖宫产手术前的痛感在性质（例如痛、刺痛、麻木、烧灼感等）或者位置（例如，是否在背部向下放射，是否影响到腿部）有没有明显的不同？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "请问你最近是否有感觉口干，口苦，口臭，吞咽有困难，或者舌痛等情况的症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你有没有感觉到恶心，呕吐，视觉模糊，或者说话，行走困难等情况？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "请问你每天的水分摄入量如何？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "你的口腔卫生习惯是怎样的？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "请问你的这种症状持续了多久了呢？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "例如，您有没有出现如下症状：疼痛、瘙痒、灼热或尿尿时有刺痛的现象？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "您的情况是怎样？", "label": [], "symptom_description": "0"}
+{"sentence": "这个白色物质是一直存在，还是最近才出现的？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "首先，有没有最近进行过不正常的体力活动或者有吃过药物，如口服避孕药等可以影响荷尔蒙平衡的药物？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "你的头痛是否有明显的位置，例如前额、颞部、枕部或是全头痛？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "痛感是否持续或者阵发，是剧烈的痛还是酸胀的痛？", "label": ["ask_symptom_duration", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "我的下一个问题是：你是否频繁需要用力排便？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "请问你有任何症状让你特别担忧或不适吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "为了更好地了解你的状况，我想再次核实一下：你的发热体温大约是多少度？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "为了帮助我更好地理解需排除的可能性、获取更有用的信息并提供最好的建议，我需要你回答下面的问题：", "label": [], "symptom_description": "0"}
+{"sentence": "你现在的饮食习惯是怎样的？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "你是否经常摄入膳食纤维丰富的食物，如水果和蔬菜？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "因此您的咽炎症状以及可能的原因是什么呢？", "label": ["ask_symptom", "ask_past_diagonsis", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "你能告诉我你在开始治疗前是否进行了完全的诊断，包括心电图、生化检查等等呢？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "为了更好地理解和诊断您的状况，我需要向您了解更多信息：", "label": [], "symptom_description": "0"}
+{"sentence": "你有没有长期的压力或心理困扰？", "label": ["ask_symptom_duration", "ask_symptom"], "symptom_description": "0"}
+{"sentence": "请问最近这段时间你们在同房时是否使用过避孕套？", "label": ["ask_coitus"], "symptom_description": "0"}
+{"sentence": "为了更深入地了解你的情况，我有一个额外的问题：", "label": [], "symptom_description": "0"}
+{"sentence": "你在没有性刺激的情况下早晨醒来时是否会有勃起？", "label": [], "symptom_description": "0"}
+{"sentence": "了解，那么是否有过其他的症状，比如阴道分泌物的改变、不寻常的下腹痛或者尿路感染的症状等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "请问你有没有近期的不安全的性行为或新的性伴侣？", "label": ["ask_coitus"], "symptom_description": "0"}
+{"sentence": "这些圆圆的是什么颜色的？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "它们长在什么位置？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "有无红肿、疼痛或分泌物？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "至于你自己，你提到走路久了后外阴会瘙痒，这个症状持续多久了?是否有红肿，分泌物增多或者不正常的尿液情况？", "label": ["ask_symptom_duration", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "他的这种症状是持续存在还是偶尔发生？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "同时是否伴有其他症状，如排尿困难、尿频尿急或尿液浑浊等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "了解了，那么您在吃其他类型的食物，尤其是其他主食，比如普通米饭、面食等的时候，有没有类似的胀气感觉呢？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "您能否告诉我，每次食用糯米饭后您是否都会感到胀气，且与食物摄入量有关系吗？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "能否提供一下更多的信息，比如这种情况是否是首次出现？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "服用的降压药是您平时的常备药物，还是首次使用？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "我想要更深入地理解你的病情，你能告诉我你的头皮瘙痒情况吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "如果瘙痒，是持续性的还是间断性的？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "是否有特定的瘙痒时间，比如晚上或者在洗过头之后？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "在进一步追问之前，我想知道你有没有在头皮以外的身体部位，如肘部或膝盖部位，发现过类似的红皮病，有抑或无？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "首先我想要确认一下，您是不久前接受了包皮手术吗？", "label": ["ask_trauma_surgery"], "symptom_description": "0"}
+{"sentence": "还是包皮问题自然发生的？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "我想问一下，这样的情况是否在特定的情境下出现，例如锻炼、生活或工作压力增大，或者进食过多含盐或含咖啡因的食物等？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "那么您的增粗的包皮是否伴随着其他症状，比如红肿、瘙痒或者有异常的分泌物等？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "如果将来还有任何问题或疑问，都欢迎向我咨询。", "label": [], "symptom_description": "0"}
+{"sentence": "我想问：这个硬物的特征是怎样的？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "例如，它的形状，大小，质地，是否固定，或者它改变过吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "请问有其他需要我帮助的吗？", "label": [], "symptom_description": "0"}
+{"sentence": "在继续咨询之前，你能告诉我你现在是否还在继续服用头孢他啶吗？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "同时，请问你是否有任何其他的健康状况，例如其他疾病或者药物过敏史？", "label": ["ask_past_diagonsis", "ask_allergic_history"], "symptom_description": "0"}
+{"sentence": "首先，你剩余的听力是否有所衰退，比如，是否出现听力下降或者对周围环境的声音不再那么敏感？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "你的贫血症状是由医生通过血液检查确定的吗？", "label": ["ask_medical_examination", "ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "你能告诉我这个症状是怎么出现的吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "例如，这个症状是在开始服用头孢他啶后多久开始出现的？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "又持续了多久？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "同时，还有没有其他的症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "再问一个问题：你最近有没有接触过非常大的噪声，例如音乐会或者在噪声很大的工作环境中呢？", "label": ["ask_contact_history"], "symptom_description": "0"}
+{"sentence": "了解你的情况后，有一个重要的问题需要你确认：你的\"肝掌\"是否已经由医生诊断确认？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "你能描述一下腰疼的性质吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "比如它是持续的或者间歇的？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "是否在进行某些活动时会变得更糟，例如抬重物或者长时间站立？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "还有这种疼痛是否在休息时会有所缓解？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "首先请问您，这两个黑点出现有多久了？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "是否有疼痛或者其他的不适感？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "了解你的情况后，一个重要的问题是，你有没有进行定期的肝脏监测，例如超声检测或者其他形式的肝脏影像学检查？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "这些检查有显示任何肝脏的病变或者异常吗？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "了解您的情况后，我想知道这个疤痕是否经常引起不适，比如疼痛、瘙痒或者有其他刺激感？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "了解了，这些黑点是否有任何的变化，比如大小、形状、颜色或者数量上的变化？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "你是否最近有黄疸（皮肤或眼白发黄）的现象？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你可以告诉我具体你正在服用的药物名称吗？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "以及你服用这款药有多长时间了？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "你是否消费过过量的酒精，或者有接触过可能导致肝病的病毒（例如乙肝或丙肝）？", "label": ["ask_alcohol", "ask_contact_history"], "symptom_description": "0"}
+{"sentence": "好的，那么这个疤痕在过去的几个月里有没有出现过任何变化？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "如颜色、大小、形状或质地的变化？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "请问你是否已经和你的医生讨论过这个问题，比如药物的剂量是否有调整，或者尝试过其他的抗精神疾病药物吗？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "所以，有关这个决定，您是否有其他的疑问或者需要进一步的解答？", "label": [], "symptom_description": "0"}
+{"sentence": "首先，我需要了解您目前是否有疼痛、坠胀感或其他相关的体征和症状吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "在确定对策前，我有个问题要问您：您女儿的疹子有液体溢出或破皮的情况吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "请问你女儿的皮疹是否伴有瘙痒、红肿或者疼痛的症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "在过去的一个月中，这种较浓的奶粉是孩子的主要食物来源吗？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "还有孩子有没有出现不适的症状，例如便秘、奶粉反胃、消化不良或者泻痢等情况？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你能否按照这个标准增加你的锻炼量？", "label": [], "symptom_description": "0"}
+{"sentence": "请问你是否有健康饮食和定期体育锻炼的习惯？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "请问孩子在过去一个月里，体重增长是否正常？", "label": ["ask_physical_change"], "symptom_description": "0"}
+{"sentence": "他有没有出现过其他任何抱怨或者不适的症状，如脱水的迹象（比如尿液量减少、尿液颜色深、口干等）或者过度担忧的行为？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你是否在服用任何降糖药物或胰岛素？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "你是否已经做过怀孕测试？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "如果做了，结果是什么？", "label": [], "symptom_description": "0"}
+{"sentence": "为了确认这一点，我想请你回答：你是否有过未保护的性行为，且有可能怀孕？", "label": ["ask_coitus"], "symptom_description": "0"}
+{"sentence": "请问您能告诉我目前正在使用的药物以及药物剂量吗？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "为了排除其他可能因素，我想知道你是否在最近的饮食或体育活动上有任何改变？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "请问您是否有任何其他的症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "例如发热、尿血、尿频或者排便习惯的改变等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "首先，您能告诉我你的女儿的体温是多少吗？", "label": [], "symptom_description": "0"}
+{"sentence": "请告诉我，医疗团队是否提供了对这种情况的详细说明？", "label": [], "symptom_description": "0"}
+{"sentence": "他们是否提到了可能的治疗策略或下一步计划？", "label": [], "symptom_description": "0"}
+{"sentence": "如果你所提到的新生儿目前正在遭受胎粪吸入性肺炎的折磨，能否告知我他的症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "例如，他是否呼吸急促或呼吸困难？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "肤色是否蓝色？", "label": [], "symptom_description": "0"}
+{"sentence": "是否有其他任何症状或疾病？", "label": ["ask_symptom", "ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "再者，这也让我了解到，目前的治疗方案是如何，如何有效地提高氧合，能否给出更多的综合信息，以便我能帮助理解这个情况?", "label": [], "symptom_description": "0"}
+{"sentence": "如果有更多问题，欢迎随时向我咨询。", "label": [], "symptom_description": "0"}
+{"sentence": "想要了解更多，请问她是否有其它症状，如咳嗽、喉咙痛、流鼻涕、呼吸不畅、头痛、惊厥等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "首先，我需要知道你目前是在服用哪种药物来治疗甲状腺功能亢进（甲亢）的？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "例如，你是在服用抗甲状腺药物如丙硫氧嘧啶（PTU）或甲巯咪唑（MMI）吗？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "你是否可以尽快安排一次听力测试？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "你是否能和医生沟通，探讨下是否在你准备怀孕或者已经怀孕时转为使用丙硫氧嘧啶（PTU）呢？", "label": [], "symptom_description": "0"}
+{"sentence": "我希望这个答案对你有所帮助，如果还有其他问题，欢迎继续提问。", "label": [], "symptom_description": "0"}
+{"sentence": "请问你能描述一下你的听力问题吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "是一侧还是双侧听力丧失？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "部分听力丧失还是完全听不见？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "有没有进行过专门的听力测试？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "请问您是否有持续的鼻塞或者说鼻子难以呼吸的感觉？", "label": ["ask_symptom_duration", "ask_symptom"], "symptom_description": "0"}
+{"sentence": "首先，我想了解一下您有无其他症状，例如，您是否有频繁打喷嚏，或者感觉到咽喉痒或者眼睛痒？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你做了HPV的测试吗？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "如果做了，结果是什么型号的HPV感染呢？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "你可以描述一下你的白带的颜色，质地和气味吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "此外，为了更准确的判断，我还需要问一下：这些水泡在使用暖宫贴之前是否已经存在呢？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "这些水泡是否伴有其他症状，如瘙痒，红肿，疼痛或者烧灼感？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "您是否有其他的症状，比如排尿困难、尿急、尿频或尿液是否发生了变化（色泽、浑浊度等）？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "为了更精确地理解您的状况，我想问一下：您有任何其他的症状吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "例如发热、恶心、腹痛、尿频等等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "您是否最近有过任何性行为，特别是未采取保护措施的性行为，或者有其他疼痛的地方，例如腰痛或者下腹部疼痛等？", "label": ["ask_coitus", "ask_symptom"], "symptom_description": "0"}
+{"sentence": "请问你是否有心脏疾病的家族病史？", "label": ["ask_family_history"], "symptom_description": "0"}
+{"sentence": "或者有无吸烟，过度饮酒的习惯？", "label": ["ask_tobacco", "ask_alcohol"], "symptom_description": "0"}
+{"sentence": "为了更加精确地定位问题，我想问一下，您的这种痛感是持续存在的吗？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "或者说它在某些特定的时候（比如运动或长时间站立之后）会变得更加明显吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "你可以描述一下跳绳后的具体症状吗？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "比如，你有没有感觉到身体某部位的疼痛、酸痛，或者是呼吸困难、疲劳过度等问题？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "请问你的疼痛是在起床后立即开始，还是在活动或行走一段时间后开始的？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "你有出现持续性的吞咽困难或疼痛，体重减轻，胸骨后部疼痛，嗓音嘶哑或疲劳等食道癌常见症状吗？", "label": ["ask_symptom_duration", "ask_symptom", "ask_physical_change"], "symptom_description": "0"}
+{"sentence": "请问你的疼痛感是持续存在的，还是走动或者活动一段时间后有所缓解？", "label": ["ask_symptom_duration", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "那么，我需要了解一下你的年龄，以及是否有长期吸烟、饮酒或者有食管疾病（如病酸性反流）的病史？", "label": ["ask_tobacco", "ask_alcohol", "ask_age", "ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "为了更好地评估健康状况，我想知道你的女朋友是否有其他的身体不适？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "例如发热、恶心、呕吐、腹痛等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "您在恢复期间有没有出现这些症状的改变？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "为了更好地评估，我需要进一步了解：这次流血的颜色和量是怎样的？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "是否伴有腹部疼痛？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "反映乏力和食欲不振持续了多久？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "您最近有没有进行过医生的复查或者随访呢？", "label": [], "symptom_description": "0"}
+{"sentence": "比如：这种疼痛是怎么样的？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "是钝痛，刺痛，或者绞痛？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "首先，我想了解一下，你的脚踝是否有明显的肿胀或者疼痛程度很大？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "这是我给出的建议，你感觉怎样？", "label": [], "symptom_description": "0"}
+{"sentence": "你是否能动动你的脚趾？", "label": [], "symptom_description": "0"}
+{"sentence": "是否感觉脚趾有力量？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "如果你将来有任何其他问题，或者如果你的症状有任何变化，请随时向我提问。", "label": [], "symptom_description": "0"}
+{"sentence": "第一个需要进一步询问的是，你是否有任何症状，比如疲劳、体重增加、脸部和舌头肿胀、便秘、寒冷耐受性降低、抑郁等？", "label": ["ask_symptom", "ask_physical_change"], "symptom_description": "0"}
+{"sentence": "这个疼痛的位置具体在哪里呢？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "比如是在上腹，中腹，还是下腹部？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "左边，中间，还是右边？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "首先，您的朋友有没有突然出现的平衡失调，明显的记忆问题，或者身体的一侧无力或不能协调？", "label": ["ask_symptom_duration", "ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "首先，您能告诉我您现在的年龄吗？", "label": ["ask_age"], "symptom_description": "0"}
+{"sentence": "你的医生是否在你的情况下提出了这个选项？", "label": [], "symptom_description": "0"}
+{"sentence": "首先，你的核磁结果显示你有腰椎间盘突出问题，但在我给出具体建议之前，我需要先了解以下情况：", "label": [], "symptom_description": "0"}
+{"sentence": "1. 你是否有任何症状，如背痛，腿疼，麻木或肌肉无力等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "接着，请问她在说话、理解别人的话或者面部表情方面有任何改变，或任何其他急剧的行为或情绪变化吗？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "关于您的症状，我想问第二个问题：您有长期的疾病，比如糖尿病、高血压或者心脏疾病么？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "现在，为了更全面地了解您的情况，我想问您：您的问题（勃起功能减弱和尿液不尽）是突然出现的还是逐渐发展的?", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "然后再进一步了解一下，您的关节疼痛是否伴随着红肿或发热呢？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "首先，让我们先确定一下，你的身体疼痛主要发生在哪些部位？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "首先，您能描述一下“小腹痛”的症状吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "首先，你是否发现白带的量是持续增多的，还是持续保持在一个量？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "接下来，关于您提到的“受冷就拉肚子”的症状，您能详细描述一下吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "这种情况每次大约持续多久？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "大概频繁到什么程度（例如，每周几次）？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "大便的性状（如稀状、水样等）有什么改变吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "是否在腹痛加剧时更为明显？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "接下来，你是否在日常生活中有使用紧身或者不透气的内裤或裤子？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "首先，我们需要进一步确定以下信息：你是否有其他症状，比如瘙痒、发红、发热、疼痛、排泄物、皮肤变色等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你在找到适当医疗帮助之前，可以考虑在日常中做些改变：", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "这里有一个重要的问题需要明确：你有没有最近过敏性反应的历史，比如对某种食物、药物、或者材料（如洗衣粉）的新的或不习惯的接触？", "label": ["ask_allergic_history", "ask_contact_history"], "symptom_description": "0"}
+{"sentence": "你是否有过其它的症状，如瘙痒、疼痛等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "为了能够进一步缩小可能性，你是否曾有过不安全的性行为，或者已知的人类乳头瘤病毒（HPV）感染的伴侣？", "label": ["ask_coitus", "ask_contact_history"], "symptom_description": "0"}
+{"sentence": "为了能更准确地理解您的情况，您能告诉我您是否有异性性行为，并使用避孕措施的情况吗？", "label": ["ask_coitus"], "symptom_description": "0"}
+{"sentence": "您能告诉我您的症状已经持续了多久，以及是否有逐渐加重的趋势吗？", "label": ["ask_symptom_duration", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "你的症状具体是什么？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你是否有其他的基础性疾病，比如高血压，糖尿病或者心脏病等？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "了解，您是否有其他的症状，比如体重减轻、食欲下降、便秘、腹泻、便血或者恶心呕吐等呢？", "label": ["ask_symptom", "ask_physical_change"], "symptom_description": "0"}
+{"sentence": "你的症状可能是念珠菌感染或皮肤病，请问你近期有新的性伴侣或者无保护的性行为吗？", "label": ["ask_coitus"], "symptom_description": "0"}
+{"sentence": "能否请您描述一下这些像水泡一样的东西的颜色、是否有痒感或疼痛，以及是否有其他相关症状（例如分泌物或者发热）？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "您好，腹部不适对于您来说具体是什么感觉？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "例如：疼痛、胀痛、反酸还是其他不适？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "如果是疼痛，能否详细描述一下位置、类型（如绞痛、隐痛、刺痛等）及是否有放射痛的情况呢？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "如果您在接下来的过程中还有任何其他问题，或者需要更多关于这个主题的信息，请随时向我提问。", "label": [], "symptom_description": "0"}
+{"sentence": "首先，请问您儿子的左手大拇指多出的指头位置明显吗，比如说，是否牵涉到骨骼、肌肉等结构？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "你是否已经咨询过医生，是否已经做过相关的医学检查？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "接下来，我想问：您的儿子其他的健康状况如何？", "label": [], "symptom_description": "0"}
+{"sentence": "他有没有其他的疾病、手术史或者是对什么药物过敏？", "label": ["ask_past_diagonsis", "ask_trauma_surgery", "ask_allergic_history"], "symptom_description": "0"}
+{"sentence": "根据你现在的描述，是否有任何其他的疑问或者问题需要我帮你解答？", "label": [], "symptom_description": "0"}
+{"sentence": "你常常感到生气和控制不住自己的情绪吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你最近是否感到特别的焦虑或者有深沉的悲哀感，失望或者无助感？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "但在推荐任何药物之前，请你先回答一下：你是否对任何药物过敏或者曾有其他的疾病史，例如糖尿病或心脏疾病等？", "label": ["ask_past_diagonsis", "ask_allergic_history"], "symptom_description": "0"}
+{"sentence": "你的包皮感染症状包括红肿、疼痛、分泌物增多吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "我想了解一下你的麻木感是否是持续存在的还是偶尔出现？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "你的医生有告诉你吗？", "label": [], "symptom_description": "0"}
+{"sentence": "你的家人已经接种乙型肝炎疫苗了吗？", "label": ["ask_preventive"], "symptom_description": "0"}
+{"sentence": "请问你是否有颈部疼痛或者不适的感觉？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "首先，我想了解一下您对手术的具体期望是什么？", "label": [], "symptom_description": "0"}
+{"sentence": "您希望通过手术达到怎样的效果？", "label": [], "symptom_description": "0"}
+{"sentence": "您是否能描述一下您的手伤的位置、严重程度、影响的范围（如影响了哪两个手指）？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "经历的治疗方法和结果如何？", "label": [], "symptom_description": "0"}
+{"sentence": "然而，是否适合您，以及手术的效果如何，需要由专业的整形外科医生或手部外科医生根据您的具体情况来评估。", "label": [], "symptom_description": "0"}
+{"sentence": "您是否考虑过预约看医生进行详细的检查和评估？", "label": [], "symptom_description": "0"}
+{"sentence": "请问您最近的全身健康状况如何？", "label": [], "symptom_description": "0"}
+{"sentence": "例如，是否有高血压，糖尿病，心脏病或者其他重大疾病？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "请问您是否感到其他关节不适，或者您的亲属是否有类似问题？", "label": ["ask_symptom", "ask_family_history"], "symptom_description": "0"}
+{"sentence": "您是否有疲劳、全身性关节疼痛或持续的关节红肿？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "当前你有进行定期宫颈巴氏涂片筛查或HPV（人乳头状病毒）检测吗？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "关于你的子宫胀痛，疼痛是怎样的？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "例如，疼痛是否在增强？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "是否存在发热、分泌物改变（例如，色泽、气味）或其他症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你接下来打算如何处理这个问题呢？", "label": [], "symptom_description": "0"}
+{"sentence": "有计划去找医生进一步咨询吗？", "label": [], "symptom_description": "0"}
+{"sentence": "因此，你是怎样的白癜风类型呢，例如：是一般型、细小斑型还是片状型？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "且病变有涉及到哪些部位？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "您觉得伤口处的疼痛比之前更严重了吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "下面我又一个问题：这种疼痛通常会持续多久？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "是否有任何事物能够缓解疼痛，比如休息或者冷热敷等？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "比如，这种疼痛发生在你的大腿的哪一部分，是前面（大腿前侧）、后面（大腿后侧）还是两侧（大腿两侧）？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "您有没有在其他时候也觉得肌肉无力，比如受力物体时，或者嘴角、吞咽有无问题等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "首先，你的手术是通过什么方式进行的？", "label": ["ask_trauma_surgery"], "symptom_description": "0"}
+{"sentence": "例如：通过开颅手术还是血管内治疗(像动脉瘤栓塞）？", "label": ["ask_trauma_surgery"], "symptom_description": "0"}
+{"sentence": "除了痒和红，还有没有其它的症状出现，如肿胀、触摸时有温热感或者分泌物的产生（例如脓液）？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "在你的手术后，有没有使用新的药物或者是更改药物剂量？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "你最近有测量血压和血糖吗?", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "那你在做某种活动后感觉肌肉疲劳，休息后是否会感觉有所恢复？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "还有，你有没有觉得长时间不眨眼或者眯眼看东西，眼睛是否会感到疲劳或者干涩？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "首先，你正在体验什么样的症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "这些症状已经持续了多久？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "是否有其他病史? 比如长期饮酒，糖尿病，家族中有肝疾病的历史，或者曾有乙肝或丙肝感染？", "label": ["ask_alcohol", "ask_past_diagonsis", "ask_family_history"], "symptom_description": "0"}
+{"sentence": "接下来，我想了解一下你过去是否有过这样的病史，或者是否有过尿路感染或者性传播疾病？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "您是否有任何关联的症状，例如失去胃口，体重减轻，乏力，黄疸，右上腹部疼痛等？", "label": ["ask_symptom", "ask_physical_change"], "symptom_description": "0"}
+{"sentence": "再次提醒您，如果有其他疑问，请随时告诉我！", "label": [], "symptom_description": "0"}
+{"sentence": "首先我想确认一下，这种疼痛是否持续存在，还是周期性的？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "您是否经历过任何头部损伤或者在这期间有任何显著的健康问题，比如高血压、糖尿病等慢性疾病？", "label": ["ask_symptom", "ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "您是否有发热或寒战的症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "您是否有发生过任何无缘无故的头痛、呕吐、眩晕、失衡，或者视力模糊、记忆力下降等症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你是否已经开始给你的孩子添加过辅食了呢？", "label": [], "symptom_description": "0"}
+{"sentence": "祝您的宝宝健康成长！如果有其他问题，欢迎随时向我提问。", "label": [], "symptom_description": "0"}
+{"sentence": "请问这个信息对您是否有帮助，或者您有没有其他关于如何为宝宝添加辅食的问题呢？", "label": [], "symptom_description": "0"}
+{"sentence": "首先，你的耳朵颜色的改变是一直存在的，还是说它是随着时间或是其他因素（比如晒太阳）的影响而变化的？", "label": ["ask_symptom_duration", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "除了龟头上的红点和毛刺之外，你还有其他症状吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "例如疼痛、瘙痒、流脓、排尿困难或不适、性行为不适等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "您最近有新的性伴侣或在没有使用保护措施的情况下与人发生性行为吗？", "label": ["ask_coitus"], "symptom_description": "0"}
+{"sentence": "为了更好地理解你的病情，我需要知道这场发热出现了多长时间，同时，你有没有其他症状，例如咳嗽，喉痛，头痛，肌肉或关节疼痛，或是疲劳感？", "label": ["ask_symptom_duration", "ask_symptom"], "symptom_description": "0"}
+{"sentence": "你是否已经尝试过解热药（如布洛芬或对乙酰氨基酚），并且这些药物是否对你的发烧有所缓解？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "但是为了排除其他可能性，我想确认一下，你有没有体验过任何那个区域的不舒适，如耳部疼痛，瘙痒或者耳朵内有任何异常分泌物等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "接下来，我想了解一下你的疝气有没有在你平躺下时自然缩小或消失，然后在你坐起或站立时出现或变大？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "你的餐饮习惯如何？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "你经常吃的是健康的食物还是高糖、高脂食物？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "你的体重是否在正常范围内，还是超重或者过轻？", "label": ["ask_physical_change"], "symptom_description": "0"}
+{"sentence": "在此基础上，为了能更好的帮你，我需要了解一下，你的颈椎疼痛是否会向肩部或上肢放射？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "你多大年纪了？", "label": ["ask_age"], "symptom_description": "0"}
+{"sentence": "你的身体状况如何，有无其他疾病，例如糖尿病、甲状腺病、多囊卵巢综合症等？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "我还想进一步了解：在你的这些症状中，是否有出现过手部或者手指麻木的感觉？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "首先，当你说的“疝气”增大时，你能描述一下疼痛的情况吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "例如，你是否感到持续的疼痛，还是说只在某些特定的动作（如咳嗽、打喷嚏、提重物）时才会疼痛？", "label": ["ask_symptom_duration", "ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "您朋友有无任何已知的消化系统疾病（例如GERD，贲门失弛缓症等）？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "所以，问你第一个问题是：您有无任何已知的疾病或者过敏史？", "label": ["ask_past_diagonsis", "ask_allergic_history"], "symptom_description": "0"}
+{"sentence": "其次，我想了解的是，你所描述的疼痛在你进行日常活动或者体位改变时有没有变化或者加重？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "例如，当你坐下、走路或者弯腰时，疼痛是否会加重？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "首先，你所感觉的疼痛是否伴随着其他症状，比如红肿、发热、分泌物增多等？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "您能告诉我您朋友这些症状发生的环境或情景吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "例如他在运动、紧张、吃东西或其他特定情况下会出现这种情况吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "请问有无进行过最近的心脏超声检查，如果有，结果是怎样的？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "那请问，最近您有没有发生过非经期的阴道流血或其他不正常的症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "请问您小孩的具体的先心病类型是什么？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "你的心口疼痛是突然开始的吗？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "请描述一下疼痛的性质，是钝痛、刺痛，还是压迫感，以及疼痛是否会向其他部位扩散？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "请问您目前有没有其他的症状，比如发热、体重下降、食欲不振、疲劳、恶心或者呕吐等？", "label": ["ask_symptom", "ask_physical_change"], "symptom_description": "0"}
+{"sentence": "请问您对囊肿和脾坏死的诊断是通过何种方式得知的？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "是CT、B超还是磁共振等检查？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "疼痛的持续时间是多久，是几分钟还是数小时？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "在过去的几天或几周内，你是否曾有过类似的疼痛？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "在我们进一步讨论前，你能告诉我控制不住情绪具体表现为哪些症状吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "例如，你是否经常感到忧郁、无法感受到快乐，或者对平时喜欢的事情失去了兴趣？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "你可以告诉我你确诊的是哪种类型的癌症吗？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "然而，我想知道，这些症状大约持续了多久？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "例如，是否已经持续了两周或者更久的时间？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "能否告诉我你的医生是否已经分析出癌症是否有特定的基因突变或吸烟史等特征的信息？", "label": ["ask_tobacco", "ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "如果你以后还有任何医学问题或疑问，请随时向我提问。", "label": [], "symptom_description": "0"}
+{"sentence": "请问有没有什么其他问题？", "label": [], "symptom_description": "0"}
+{"sentence": "再请您确认，这个肤疾洗剂有没有附带说明书，或者有没有其他的特殊使用要求？", "label": [], "symptom_description": "0"}
+{"sentence": "很高兴能帮到您！如果您以后还有任何问题，无论是医疗问题还是其他问题，都请随时向我提问。", "label": [], "symptom_description": "0"}
+{"sentence": "你对刚刚我介绍的药品使用方法有疑问吗？", "label": [], "symptom_description": "0"}
+{"sentence": "或者对还有其他药品有疑问呢？", "label": [], "symptom_description": "0"}
+{"sentence": "你能告诉我你的体温是多少吗？", "label": [], "symptom_description": "0"}
+{"sentence": "请问你是否已经复查超声，这个现象持续了多久？", "label": ["ask_symptom_duration", "ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "请问这个解答满足您的需求吗，或者有别的什么问题吗？", "label": [], "symptom_description": "0"}
+{"sentence": "关于胃痛和喉咙痛，你能描述一下痛感的程度和部位吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "例如，胃痛是在上腹的中间还是偏左偏右，痛感是刺痛、烧灼感、隐隐作痛还是钝痛？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "喉咙痛是否伴有吞咽困难或声音嘶哑等症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "请问你有出现任何不适的情况，比如腹痛、出血等症状么？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你的疼痛是突然发作的还是逐渐加重的？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "疼痛的程度是怎样的，可以用1-10的标准来评估一下吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "是否有做过什么动作或运动可能导致了肚子和睾丸的疼痛？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "你有没有出现以上提到的其他症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "请问你是否有其他医疗症状，比如头痛、喉咙痛、流鼻涕、打喷嚏或者身体其他部位有疼痛等症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "继续针灸疗法方面的话，你是因为有效果较小所以停止了吗？", "label": [], "symptom_description": "0"}
+{"sentence": "现在还有其他治疗面瘫的疗法在进行吗？", "label": ["ask_receiving_treatment"], "symptom_description": "0"}
+{"sentence": "你的面肌痉挛是自从患有面瘫后就开始了吗？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "这个痉挛是常常发生还是说在某种特定情况下会加重？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "我想了解一下，这两次月经之间相差的天数是多少？", "label": [], "symptom_description": "0"}
+{"sentence": "为了更准确地判断，我还需要问一下，您是否有发热症状或者排尿异常等其他不适？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "请问你是否有以上提及的可能影响月经周期的情况呢？", "label": [], "symptom_description": "0"}
+{"sentence": "比如最近有没有应激、疾病、饮食改变或睡眠模式的影响，或者过度运动？", "label": ["ask_living_habit", "ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "您感觉到疼痛的部位是哪里呢？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "是外阴部，还是阴道区域？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "也许是盆腔（位于腹部下部的位置）或者其他位置？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "但是为了确保没有其他可能的原因，例如潜在的内分泌问题，我想问一下，您的月经是否正常？", "label": [], "symptom_description": "0"}
+{"sentence": "有无异常的出血，疼痛，或者周期不规则等情况？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "您的变黑的指甲是在受伤之后出现的还是突然无缘无故的变成这样的？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "有否其他症状，比如疼痛、肿胀、变形或者有其他指甲也有同样的状况？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "请问您能描述一下这种\"嘴角轴动\"的情况吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "请问这种不适感一直持续吗？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "还是说使用药物后立刻就出现了？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "这些症状是否伴随着任何其他症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "例如，有无意识的改变，肌肉无力，说话或吞咽困难等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "您能具体描述一下，“一大一小”这个问题存在的程度吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "例如，这种差异对于穿衣服或生活有造成难度吗？", "label": [], "symptom_description": "0"}
+{"sentence": "这种差异是逐渐出现的还是始终如此，有无伴随其他症状，如疼痛，肿块，色素沉着等？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "你的皮肤问题在怀孕之前有出现过吗，还是说最近才开始的？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "你的小豆豆是红色的，还是白色的？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "且有没有感觉到疼痛或者瘙痒？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "您有无其它与此说症状关联的症状，比如呕吐、胃痛、食欲减退或其他消化系统问题？", "label": ["ask_symptom", "ask_physical_change"], "symptom_description": "0"}
+{"sentence": "然后，你方便告诉我你的年龄以及月经周期是否有明显变化吗？", "label": ["ask_age"], "symptom_description": "0"}
+{"sentence": "你能告诉我你是否有其他症状吗，比如阴道干涩、月经不规则、失眠或者焦虑等？", "label": ["ask_symptom", "ask_physical_change"], "symptom_description": "0"}
+{"sentence": "在做进一步分析之前，我想请问你有没有其他健康问题？", "label": [], "symptom_description": "0"}
+{"sentence": "例如，月经周期是否正常？", "label": [], "symptom_description": "0"}
+{"sentence": "有没有过敏或者肠胃问题等？", "label": ["ask_symptom", "ask_allergic_history"], "symptom_description": "0"}
+{"sentence": "再往下，我想问一下，你所说的“经常挤”是指经常挤压痘痘吗？", "label": [], "symptom_description": "0"}
+{"sentence": "这个习惯是否一直持续到现在呢？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "至于你之前的情况，可否描述一下你的一般健康状况呢？", "label": [], "symptom_description": "0"}
+{"sentence": "你有没有患过其他的疾病，比如皮肤疾病、糖尿病、甲状腺疾病等？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "如有任何变化或者想更深入了解，都请随时提问。", "label": [], "symptom_description": "0"}
+{"sentence": "请问您最近有无手部创伤的经历，或者接触过可能让手部受潮、潮湿环境，如洗碗、洗衣服、园艺工作等？", "label": ["ask_trauma_surgery", "ask_contact_history"], "symptom_description": "0"}
+{"sentence": "首先，请说明一下，你的肚子疼痛的具体症状是什么，例如疼痛的部位，疼痛的性质（如钝痛、疼痛、绞痛等），疼痛是否有规律性或与某些活动（如饮食、行动等）有关等？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "请问您最近有没有出现尿频、尿急、尿痛或是泌尿不全等症状呢？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "请问，您的年龄大约在多少岁，并且有没有出现性功能下降，比如勃起困难或早泄等问题？", "label": ["ask_age", "ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "我想了解一下，你有没有出现恶心、呕吐、发烧或便秘等其他症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "然而，为安全起见，我们应该进一步了解以下的问题：小狗是否接种过狂犬病疫苗？", "label": [], "symptom_description": "0"}
+{"sentence": "但是，你还有其他的症状吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "例如头痛、乏力、咳嗽、喉咙疼或其他不适？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "在决定下一步行动之前，请问你有其他症状吗，比如关节疼痛、腹痛、乏力或肾功能问题（例如尿频/尿急/尿液变化等）等吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "请问你的关节痛是否伴随着红斑的出现呢？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "还是说是常态的存在？", "label": [], "symptom_description": "0"}
+{"sentence": "疼痛是在哪些关节部位有？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "程度如何，是否会影响日常生活？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "在你确认并思考自己的其他症状时，我想知道你最近有没有出现饮食不适或者消化问题？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "例如：食欲下降、恶心、呕吐、腹痛或腹泻等？", "label": ["ask_symptom", "ask_physical_change"], "symptom_description": "0"}
+{"sentence": "接下来的一个重要问题是：这只小狗在最近的10天时间里，有没有出现异常行为，比说可疑地攻击性、疲倦、食欲改变或其他不寻常的症状？", "label": [], "symptom_description": "0"}
+{"sentence": "我想知道你的呕吐是否有一定的规律，例如你是否在某个特定的时间段（如早晨）或在吃某种食物后更容易呕吐？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "您目前有什么症状吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "能告诉我更多的细节吗？", "label": [], "symptom_description": "0"}
+{"sentence": "你是否采取过任何措施来缓解恶心，比如改变饮食习惯，或使用过任何药物或补品？", "label": ["ask_living_habit", "ask_past_medication"], "symptom_description": "0"}
+{"sentence": "如果是，效果如何？", "label": [], "symptom_description": "0"}
+{"sentence": "你的症状是否影响到你的日常生活了？", "label": [], "symptom_description": "0"}
+{"sentence": "例如睡眠质量、工作或学习效率有没有下降？", "label": ["ask_physical_change"], "symptom_description": "0"}
+{"sentence": "首先，你每天刷牙的频率是多少？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "是否包括牙线清洁和漱口？", "label": [], "symptom_description": "0"}
+{"sentence": "那么，你有任何消化系统的疾病历史，比如胃炎、胃溃疡、胃反流等吗？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "你是否已经尝试过其他治疗早泄的方法，比如性行为的行为疗法或是其他药物？", "label": ["ask_coitus", "ask_past_medication"], "symptom_description": "0"}
+{"sentence": "你的症状自起来已经多久了？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "你是否已经联系过医生讨论过这个问题？", "label": [], "symptom_description": "0"}
+{"sentence": "祝你健康！如果你有更多的问题，随时向我提问。", "label": [], "symptom_description": "0"}
+{"sentence": "如果你有更多的问题，随时向我提问。", "label": [], "symptom_description": "0"}
+{"sentence": "请问这个信息有没有帮助你？", "label": [], "symptom_description": "0"}
+{"sentence": "能否告诉我你已经接受过什么影像学检查（如X光、MRI等）了，如果有的话，结果显示什么？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "请问，外阴瘙痒的症状持续了多久? 你是否观察到其他任何相关症状，如分泌物改变、疼痛、肿胀或红肿等？", "label": ["ask_symptom_duration", "ask_symptom"], "symptom_description": "0"}
+{"sentence": "为了确定病原体以便明确治疗方案，你是否已经做过阴道分泌物涂片和培养或者PCR等相关检查？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "你的症状是什么？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "瘙痒、分泌物的改变、疼痛或其他什么症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "首先，您能告诉我，您这些症状是否在特定的时间（比如运动后）、特定的动作后出现，还是常时存在？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "那么我想请问，这种情况是否影响到了您的步行或者其他日常活动？", "label": [], "symptom_description": "0"}
+{"sentence": "能描述一下具体的影响程度吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "这个肿是在眼睛的内角还是外角？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "另外，除了肿和疼，你有没有觉得痒或者有分泌物？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "现在我需要了解的一些关于你的信息，以便给出更详尽的意见：你的室性早搏症状持续多久了，发作的频率如何？", "label": ["ask_symptom_duration", "ask_past_diagonsis", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "室性早搏是否影响到你的日常生活（例如引发心慌、乏力等症状）？", "label": ["ask_symptom", "ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "是否有其他已知的心脏疾病或健康问题？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "是否正在接受他人医生的医疗指导并用药？", "label": ["ask_receiving_treatment"], "symptom_description": "0"}
+{"sentence": "请首先解答这一个问题：你的室性早搏症状持续多久了，发作的频率如何？", "label": ["ask_symptom_duration", "ask_past_diagonsis", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "是否有鼻塞、流鼻涕、头痛或面部疼痛等症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你对任何药物或物质有过敏反应吗？", "label": ["ask_allergic_history"], "symptom_description": "0"}
+{"sentence": "接着，我想问的是，你的生活方式如何？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "例如你的饮食、运动、睡眠和压力管理情况如何？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "你之前有过类似的情况吗？", "label": [], "symptom_description": "0"}
+{"sentence": "如果以后有任何疑问，或者需要了解更多信息，请随时向我提问。", "label": [], "symptom_description": "0"}
+{"sentence": "你是否发现任何其他症状，例如发热、体重减轻、夜间盗汗或者疲劳等等？", "label": ["ask_symptom", "ask_physical_change"], "symptom_description": "0"}
+{"sentence": "你有没有预约看过医生？", "label": ["ask_receiving_treatment"], "symptom_description": "0"}
+{"sentence": "首先，您的饮食中是否包含过多的咖啡因（如咖啡、巧克力、可乐等含咖啡因的食品）呢？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "您现在的饮食中脂肪摄入量是多少，尤其是饱和脂肪的摄入量（例如红肉，全脂乳制品）？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "这个'淋巴发炎'是由医生诊断的还是你自己的评估？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "如果是医生诊断的话，你知道是否进行了任何类型的实验室检测或成像检查吗？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "首先，这些褐色分泌物是否伴随有疼痛，像是腹痛或者腰痛？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "可以问问你是否有特定的担忧，或任何具体症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "首先，你的白带异味是什么样的呢？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "例如，它是否具有特别强烈的鱼腥味，金黄色，并伴随着瘙痒或疼痛的症状？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "为了进一步确认，你能告诉我这些褐色分泌物有无特别的味道或者其它的不适症状，如瘙痒、刺痛等吗？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "为了确保更准确的推测，我有更多的问题需要您回答：", "label": [], "symptom_description": "0"}
+{"sentence": "这种腿疼和肿胀的情况已经持续了多久？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "它是突然出现的还是逐渐发展的？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "鉴于您所提供的情况，我要请教您一些关键问题以便更好地理解：", "label": [], "symptom_description": "0"}
+{"sentence": "您的腿疼痛是在什么情况下发生的？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "例如是在行走、运动之后还是静息时也会感到疼痛？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "这个硬块是否影响你走路或者穿鞋呢？", "label": [], "symptom_description": "0"}
+{"sentence": "还有你是否进行过高强度的运动或者特定的活动，可能会导致足部受到过度使用或者伤害？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "你的问题有两种可能的理解方式，你想了解的是在服用疫苗后多久可以建立免疫效应，还是在使用疫苗后如何确认孩子没有患上小儿麻痹症？", "label": ["ask_preventive"], "symptom_description": "0"}
+{"sentence": "你是否感觉到疼痛在你的右下腹部呈现某种规律性（例如与吃饭或排便相关），或者有任何其他相关症状，如：发热、恶心、呕吐、便秘或腹泻？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "这种症状持续了多久？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "首先，我想问一下，这个硬块在脚后跟的哪个部位？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "是在皮肤表面，还是深在肌肉或骨头中，并且有没有红肿、热感或者皮肤颜色变化？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "你有没有注意到分泌物的任何改变，比如颜色、气味或质感的变化？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "如果在这个过程中有任何其他问题，欢迎随时向我提问。", "label": [], "symptom_description": "0"}
+{"sentence": "您是否已经考虑过这些可能的治疗方法？", "label": [], "symptom_description": "0"}
+{"sentence": "首先，请告诉我，患者的一般身体状况（如体力状况）如何？", "label": [], "symptom_description": "0"}
+{"sentence": "我需要知道：在这个问题上，您的医生给出了什么建议？", "label": [], "symptom_description": "0"}
+{"sentence": "您是否有其他症状，例如阴唇红润、肿胀或疼痛？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "您提到的症状当前严重程度如何？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "对您的日常生活有明显的影响吗？", "label": [], "symptom_description": "0"}
+{"sentence": "如果还有其它问题，请随时向我提问。", "label": [], "symptom_description": "0"}
+{"sentence": "你的疼痛是否感觉像是刺痛或者像是胀痛，定位在腹脐右侧下方吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "这个疼痛的程度，是否随着日常活动，比如走路或者咳嗽，而变得更痛或者更严重？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "在这个阶段，请问您已经进行过的基本检查里，除了精液分析、激素水平检查和B超，是否还包含遗传学检查，例如常规染色体核型分析和AZF区域的基因检查等？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "首先，您能否确认是否存在怀孕的可能？", "label": [], "symptom_description": "0"}
+{"sentence": "例如最近有没有发生过无保护的性行为？", "label": ["ask_coitus"], "symptom_description": "0"}
+{"sentence": "你愿意先做一个家庭怀孕测试吗？", "label": [], "symptom_description": "0"}
+{"sentence": "另外，你有没有注意到有哪些事情可能引发你的口腔溃疡的？", "label": [], "symptom_description": "0"}
+{"sentence": "例如，你有没有摄入过辛辣食物，有没有用过可能刺激口腔的口腔卫生产品，或者近期有没有感到压力较大等？", "label": ["ask_symptom", "ask_living_habit", "ask_contact_history"], "symptom_description": "0"}
+{"sentence": "你能告诉我，你的口腔溃疡具体是什么样的症状吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "如果在操作过程中有任何问题，也可以向我咨询。", "label": [], "symptom_description": "0"}
+{"sentence": "您的出血量是大还是小？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "是持续性的出血还是突然出血后就停止了？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "我想问一下，您的咳嗽有痰吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "如果有，能否描述一下它的颜色和质地？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "您是否感到身体虚弱、头晕或者有其他严重的症状呢？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "您的发烧持续了几天？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "并且能否提供更具体的病症，比如头痛、喉咙痛、咳嗽、胸痛、腹痛、呼吸困难、干呕吐等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "然后，您说的“她”，是指多大年龄的孩子？", "label": ["ask_age"], "symptom_description": "0"}
+{"sentence": "还是指成年人？", "label": ["ask_age"], "symptom_description": "0"}
+{"sentence": "另外，这个斑点或者斑块是在哪个部位发现的？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "请问，你们的医生有没有为你女儿开具某些特殊的药物或者补充剂，如复合维生素製剂、微量元素、蛋白质粉等？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "首先，你的疤痕是由于什么原因产生的？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "关于你的疤痕，你能描述一下它的大小、形状、颜色和纹理等吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "但是，为了更准确的了解，我想问一下你的女儿有没有其他的症状，比如发热、喉咙痛或者拒绝吃东西呢？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "然后，还有一个问题需要了解，你儿子体检时提到的是一个睾丸还没下来，还是两个都没下来呢？", "label": [], "symptom_description": "0"}
+{"sentence": "请问你们的医生有没有提过采用支持疗法，比如疼痛管理和营养支持，来提高你女儿的身体素质？", "label": [], "symptom_description": "0"}
+{"sentence": "你是否尝试过任何治疗方法？", "label": ["ask_receiving_treatment"], "symptom_description": "0"}
+{"sentence": "如果是，这些治疗的效果如何？", "label": [], "symptom_description": "0"}
+{"sentence": "这个问题是由儿科医生还是专科医生（如泌尿科医生）确定的呢？", "label": [], "symptom_description": "0"}
+{"sentence": "他们是否为你的儿子安排了任何后续检查或治疗？", "label": [], "symptom_description": "0"}
+{"sentence": "这还有一个问题很重要，你是否有任何其他的健康问题，或者正在接受其他任何药物治疗？", "label": ["ask_receiving_treatment"], "symptom_description": "0"}
+{"sentence": "请问您是否已经被诊断为糖尿病并正在接受治疗？", "label": ["ask_receiving_treatment", "ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "了解了，你的头痛特征是否有其他特点？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "例如：位置集中或分散？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "疼痛是钝痛、尖锐痛或者压迫感痛？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "疼痛感是否有波动，比如有些时候非常疼，有些时候没那么疼？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "关于您的酮体测试，您是否感觉有任何异常的症状? 例如频繁尿尿，口渴，乏力，恶心或呕吐等症状?", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你最近有没有尝试改变饮食或者是开始或者停止使用某些药物吗？", "label": ["ask_living_habit", "ask_past_medication"], "symptom_description": "0"}
+{"sentence": "现在，我需要知道您近期的血糖控制情况如何，例如您的空腹血糖值以及餐后血糖值大概在什么范围？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "这是我理解对了吗？", "label": [], "symptom_description": "0"}
+{"sentence": "此外，您的头痛是否伴有其他症状，例如恶心、呕吐或者对光线敏感等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "您的其他症状，如疲劳、失去食欲、体重的改变有没有明显改变呢？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "当您感到胸闷，有什么活动会使症状增加或者减少吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "为了严格筛查，你是否在服用任何药物或者有任何已知的疾病？", "label": ["ask_past_medication", "ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "希望你能尽快康复，如果有任何其他问题，无论何时都可以问我。", "label": [], "symptom_description": "0"}
+{"sentence": "下一个问题，您是否有高血压、糖尿病、高脂血症等慢性病，或者心脑血管疾病的家族史？", "label": ["ask_past_diagonsis", "ask_family_history"], "symptom_description": "0"}
+{"sentence": "您向医生提到过您的顾虑了吗？", "label": [], "symptom_description": "0"}
+{"sentence": "或者在考虑治疗方案时向医生了解过这些问题吗？", "label": [], "symptom_description": "0"}
+{"sentence": "所以，这些小肉芽具体在身体的什么位置呢？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "如果可能，你能告诉我是否有其他的症状出现，例如疼痛，艰难的呼吸，疲劳，情绪波动等吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "我想了解一下，您有没有其他的身体不适、并发疾病或者对某些手术治疗存在顾虑等情况？", "label": ["ask_symptom", "ask_past_diagonsis", "ask_trauma_surgery"], "symptom_description": "0"}
+{"sentence": "如果仍不见好转，你有去看过医生吗？", "label": ["ask_receiving_treatment"], "symptom_description": "0"}
+{"sentence": "对于你的肉芽，档次肉芽有没有疼痛感或者在日常生活中有没有造成物理上的不适呢？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "例如，除了阴道瘙痒，你还有其他的症状吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "比如分泌物的改变（例如颜色、质地、气味）或者疼痛感？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "请问除了鱼刺卡在喉咙的感觉，你还有其它症状吗?比如，喉咙疼痛，发烧，咳嗽，声音嘶哑，呼吸困难等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "然后我需要进一步确认一些信息来已对孩子的病情的可能性进行一个准确的预估，儿童是否有头疼，恶心，呕吐等症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "还有其他家庭成员有无类似的病症？", "label": ["ask_family_history"], "symptom_description": "0"}
+{"sentence": "首先，孩子有发烧、喉咙疼痛、无力、食欲不振等症状吗？", "label": ["ask_symptom", "ask_physical_change"], "symptom_description": "0"}
+{"sentence": "下一个问题是关于你的一般健康状况，你有没有任何慢性疾病，比如糖尿病?或者你最近有没有使用过抗生素或者类固醇类药物，这些都可能影响身体的免疫反应?", "label": ["ask_past_medication", "ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "请问您在服用任何药物上有没有已知的过敏反应或者不良反应？", "label": ["ask_allergic_history"], "symptom_description": "0"}
+{"sentence": "我想知道你现在正在服用什么药物，并且是按照什么剂量和频率服用的？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "您的冠心病伴随着任何其他病症，如高血压、糖尿病或者高胆固醇吗？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "或者我可以帮你了解关于提高生活方式和饮食的建议来支持肾脏健康，你想要这方面的建议吗？", "label": [], "symptom_description": "0"}
+{"sentence": "下一个我要了解的是你的月经持续的时间大概是多久，从的月经开始的第一天到你的月经结束的最后一天？", "label": [], "symptom_description": "0"}
+{"sentence": "好的，如果你未来有任何问题或者需要进一步的帮助，都欢迎随时向我提问。", "label": [], "symptom_description": "0"}
+{"sentence": "但具体是哪种情况，或者是否有其他的可能，需要更全面的评估和诊断。", "label": [], "symptom_description": "0"}
+{"sentence": "同时，我也想问一下，你有试过除了药物治疗以外的其他方式，比如心理治疗吗？", "label": ["ask_receiving_treatment"], "symptom_description": "0"}
+{"sentence": "第一个问题是：你的月经周期是多久，通常情况下，从一个周期的开始（月经的第一天）计算到下一个周期开始（下一次月经的第一天）的时间是多久？", "label": [], "symptom_description": "0"}
+{"sentence": "您的这个情况有多久了呢？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "请问您的性生活时间是比手术前明显减少了吗？", "label": ["ask_coitus"], "symptom_description": "0"}
+{"sentence": "同时，请问你有没有改变过生活习惯，比如饮食、睡眠等，这些都有可能影响病情的恶化或改善？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "请问你在月经来临前是否完整的使用完了医生给你开的药物？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "首先我需要了解一些信息：你是否存在其他症状，如感到特别寒冷、尤其是在腰部和下肢，还有精力不足、性欲降低、尿频或尿液量多等？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "在开始推荐中草药或食疗前，你能否告诉我你现在是否正在接受医疗治疗，或者是否已向医疗专业人士咨询过这个问题？", "label": ["ask_receiving_treatment"], "symptom_description": "0"}
+{"sentence": "在开始推荐中药或食疗前，请问你是否对任何药物或食物有过敏反应，或者有其他任何健康问题（如高血压、糖尿病等）或饮食限制吗？", "label": ["ask_living_habit", "ask_past_diagonsis", "ask_allergic_history"], "symptom_description": "0"}
+{"sentence": "为了更好地了解您的情况，我想请问您是否有其他症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "比如尿急、尿痛、身体疲劳、下肢浮肿等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "您最近有接受过血糖的检查吗？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "请问您是否有尝试过用药，比如抗生素来改善这些症状，或者有没有进行过相关的尿液或血液测试？", "label": ["ask_medical_examination", "ask_past_medication"], "symptom_description": "0"}
+{"sentence": "比如，您是否还有其他糖尿病并发症，如视力模糊、尿频、口渴、疲劳、麻木和刺痛等症状？", "label": ["ask_symptom", "ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "首先，您目前正在服用哪些药物缓解疼痛？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "你对这种做法怎么看呢？", "label": [], "symptom_description": "0"}
+{"sentence": "现在，除了膝盖疼痛，您在日常活动中有没有发现其他不适，比如行走困难、上楼梯或者做其他活动时感到困难呢？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "请记住，任何疑问或者困惑都可以随时向我提问。", "label": [], "symptom_description": "0"}
+{"sentence": "你是否已经尝试过这类药物，比如说赛庚啶（Cetirizine）或其他类似的非处方药？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "这些药物对你的症状有何效果？", "label": [], "symptom_description": "0"}
+{"sentence": "然后，为了更好地理解您的症状，我需要确切地知道您的腹痛是在腹部的什么位置？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "它是持续的还是偶尔的？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "是剧烈的还是轻微的？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "为了更好地帮你分析，我需要知道这种疼痛是否伴随着其他的症状，比如疲劳、头痛、恶心、呕吐或者腹痛？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "首先，您有没有感觉到恶心或呕吐？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "当你感觉有东西阻塞在那里的时候，你有咳嗽，声音变哑，或者吞咽困难吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你是否有吸烟或者饮酒的习惯？", "label": ["ask_tobacco", "ask_alcohol"], "symptom_description": "0"}
+{"sentence": "您是否晚上躺下休息时会感到心口部位烧心或者酸痛的情况？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "为了明确是否怀孕，您是否进行过孕妇试纸测试？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "请问你是否有前列腺囊肿的症状呢？", "label": ["ask_symptom", "ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "然而，是否使用药物，以及使用何种药物，需要由医生根据你的具体状况来决定。", "label": [], "symptom_description": "0"}
+{"sentence": "如果你已经被确诊为前列腺囊肿，你是否已经使用过任何药物来尝试管理这些症状？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "请问你是否已经通过妇科检查并被诊断为宫颈糜烂？", "label": ["ask_medical_examination", "ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "请问你在性行为后有没有使用避孕措施，例如避孕套或者是事后避孕药？", "label": ["ask_coitus", "ask_past_medication"], "symptom_description": "0"}
+{"sentence": "请问，你是否有出现任何相关的症状呢？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "请问您有没有进行过前列腺特异抗原（PSA）的检测呢？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "请问，除了这些尿液问题，患者是否有其他症状，如腰痛、发烧、尿液颜色改变、尿液中带血、疼痛等呢？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "首先，这个8岁的孩子是否有其他的身体变化，比如身高快速增长，出现更多的体毛，或者情绪变化等？", "label": [], "symptom_description": "0"}
+{"sentence": "这些症状出现时，有什么特定的触发因素吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "比如饮食，运动，紧张或压力等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "但是，我需要进一步确认，孩子的乳房发育是否是双边的，还是只有一侧？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "另外，发育的乳房是否有疼痛或肿块的感觉？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "让我们一步一步来分析：", "label": [], "symptom_description": "0"}
+{"sentence": "当您感到干呕和心慌时，您有没有感到疼痛或不适，特别是在胸部或上腹部？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "是否有固定的疼痛部位或者疼痛是否会向其他部位迁移？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "你是否有注意到你的孩子有疲劳、乏力、精神不振，或者对日常活动兴趣减退等行为上的改变？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "首先，你现在有呼吸困难，气短，或者呼吸频率加快的症状吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "您是否有经常性的酸溃疡（烧心）或者胃酸倒流的感觉？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "您在入睡后是否曾经被烧心或者胃酸倒流的感觉惊醒过？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "有没有注意到她在吃东西时有消化不好，比如经常腹泻或者便秘，或者有其他消化道症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "我的第一个问题是，你的胃痛是在吃东西之后开始的吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "这是否是近期才发生的？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "你现在还有其他症状吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你是否感觉到任何形式的胸痛，例如钝痛或者剧烈的尖刺痛感？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "首先我要澄清一个问题，你有没有规律性胃痛或者胃灼热的感觉，或者是有反酸，口臭等症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "接下来，我想问，你是否有消化不良的症状，比如饱胀、食欲减退，或者有异味的嗝气？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你觉得这个建议如何呢？", "label": [], "symptom_description": "0"}
+{"sentence": "接下来的问题是，你是否有恶心或者呕吐的感觉？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你有在不吃东西的时候，尤其是饿的时候，感到不适吗？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "或者周围环境、压力、情绪改变时，你的症状有变化吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "您是否已经开始了抗病毒治疗？", "label": ["ask_receiving_treatment"], "symptom_description": "0"}
+{"sentence": "你的孩子有其他症状，如咳嗽、打喷嚏、头痛、喉咙痛、皮疹、肚子痛、食欲减退、昏睡等吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "但是在此之前，我希望了解一下你的孩子这段时间的咳嗽情况是新出现的还是旧病复发？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "咳嗽是干咳还是湿咳？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "还有就是他咳嗽的频率如何？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "然后，你的孩子有无接触过他人感冒或者有其他病毒感染的人吗？", "label": [], "symptom_description": "0"}
+{"sentence": "例如，近期有无去过人多拥挤的公共场所，或者有接触过感冒的成年人或其他孩子？", "label": ["ask_contact_history"], "symptom_description": "0"}
+{"sentence": "你的耳疼是持续的还是只在打哈欠的时候出现？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "但在此之前，您能告诉我自己的饮食和睡眠状况是怎样的吗？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "你是否有发热、头痛、咽喉疼痛或者流鼻涕等症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "进一步排除其他可能性，请告诉我，你的耳朵疼痛的持续性如何？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "它是突然开始的还是慢慢建立起来的？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "您能告诉我您确切的肝炎类型吗？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "还有您现在的肝炎病情是怎样的，例如疲劳、黄疸等症状？", "label": ["ask_symptom", "ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "我想了解一下，你是否有可能怀孕？", "label": [], "symptom_description": "0"}
+{"sentence": "例如，最近有没有不安全的性行为或者遗忘服用口服避孕药等情况？", "label": ["ask_coitus", "ask_past_medication"], "symptom_description": "0"}
+{"sentence": "关于这种情况，我有一个非常关键的问题想问：这个情况是最近突然出现的还是已经持续一段时间了？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "你是否有慢性疾病或是特殊的生活习惯，例如长时间久坐或饮食不规律等?", "label": ["ask_living_habit", "ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "在你考虑外出的时候，你又有什么具体的活动计划呢？", "label": [], "symptom_description": "0"}
+{"sentence": "首先，可能需要一个问题来了解情况：您所描述的下消化道出血具体是什么表现呢？", "label": ["ask_symptom", "ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "比如说粪便带血、粪便呈黑色（消化后的血液）、腹痛、虚弱、晕厥或其他症状吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "我了解了，那么请问最近你有没有出现过压力过大、生活习惯改变、疲劳，或者是体重剧变等情况呢？", "label": ["ask_symptom", "ask_living_habit", "ask_physical_change"], "symptom_description": "0"}
+{"sentence": "再请问一下，您现在腹痛的部位是怎么样的？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "比如说，痛在哪里？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "痛感是怎样的（剧烈，刺痛，隐痛等）？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "痛感是否会在某些时刻变得更加明显（如在进食后，或是晚上）？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "每个人在流产之后恢复的速度和程度都可能不同，对于是否可以在户外活动，综合考虑以下因素是重要的：你当前的身体状态，是否有任何并发症或风险，以及医生的建议。", "label": [], "symptom_description": "0"}
+{"sentence": "那么，我想问的是——你手术后现在感觉如何？", "label": ["ask_symptom", "ask_trauma_surgery"], "symptom_description": "0"}
+{"sentence": "有没有恶心、头晕，或者下腹部疼痛等不适？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "了解，首先，我想请问你之前的月经周期是否规律？", "label": [], "symptom_description": "0"}
+{"sentence": "最近几个月的月经间隔是不是基本一致？", "label": [], "symptom_description": "0"}
+{"sentence": "你的褐色分泌物伴有其他症状吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "例如疼痛或不适？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "但是为了确保状况正常，我想询问：这段时间你是否有使用任何避孕方案？", "label": ["ask_coitus", "ask_living_habit"], "symptom_description": "0"}
+{"sentence": "此外，除了在额头眉心外，您还有其他部位出现类似的痘痘吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "最后一个问题，您的生活作息是否有规律？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "例如，您是否经常熬夜，压力较大，或者饮食习惯是否偏向于高糖、高脂肪的食物？", "label": ["ask_symptom", "ask_living_habit"], "symptom_description": "0"}
+{"sentence": "首先，您的痘痘有没有伴随其他症状，如疼痛、瘙痒或脓液排出？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "如果你愿意说，你做过这些检查吗？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "你现在出血情况如何？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "如果你以后有任何疑问或者需要进一步的信息，欢迎随时向我提问。", "label": [], "symptom_description": "0"}
+{"sentence": "为了能够得出更准确的判断，我需要知道在咳痰中出现血丝以前，之前有无类似情况发生？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "如果你有其他问题或者需要更多的信息，随时可以问我。", "label": [], "symptom_description": "0"}
+{"sentence": "请问你在药流后是否已经进行了复查，以确认药流的效果？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "不知道我回答的信息是否满足了你的需求，还有其他问题吗？", "label": [], "symptom_description": "0"}
+{"sentence": "鉴于这种可能性，这里需要询问一个问题：你最近是否出现了任何与肺结核症状相似的症状，比如发热、消瘦、夜晚出汗、持续久咳等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "请问你之前有没有任何其他的健康问题，比如自身免疫疾病？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "在这个阶段，你的白癜风是局限在手上的一小块还是已经扩散到其他地方了？", "label": ["ask_past_diagonsis", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "在我们讨论更具体的内容之前，你可以肯定你被诊断为宫颈癌了吗？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "你能告诉我你的宫颈癌是处于哪个阶段吗？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "您是否曾经有过尾骨创伤，例如跌倒等情况？", "label": ["ask_trauma_surgery"], "symptom_description": "0"}
+{"sentence": "接下来我想了解，你的痛感有无在某个特定的位置更为明显？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "比如，坐下或者站立时更痛，或者在某个特定的体位下感到疼痛会缓解？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "你能告诉我你的医生建议了哪些可能的治疗方案，并且对这些方案有什么问题或者疑虑吗？", "label": [], "symptom_description": "0"}
+{"sentence": "请问疼痛的强度是多少？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "还有一个问题，这种疼痛是否会辐射到你的臀部、大腿或者腰部，或者你有没有觉得腿部肌力变弱或者其他类似的感觉？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "那么孩子的手术是什么时候做的呢？", "label": ["ask_trauma_surgery"], "symptom_description": "0"}
+{"sentence": "除了这种疼痛之外，孩子还有其他的症状吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "比如发烧、恶心、呕吐或泻肚？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "胃痛的位置是在哪里？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "是持续性的还是阵发性的？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "这个疼痛是否有任何其他症状伴随，如恶心、呕吐、腹泻或其他消化系统症状呢？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "接下来，你有在服用抗酸药，或是针对这个症状采取过什么措施吗？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "效果如何？", "label": [], "symptom_description": "0"}
+{"sentence": "首先，我需要了解一下你的年龄和全身状况，例如，你是否有任何疾病（如糖尿病、甲状腺疾病等），或者近期是否有体重的明显变化？", "label": ["ask_age", "ask_past_diagonsis", "ask_physical_change"], "symptom_description": "0"}
+{"sentence": "顺便问下，你是否近期有摄入不适、吃太饱，或者有重度压力和焦虑等非生理因素？", "label": ["ask_symptom", "ask_living_habit"], "symptom_description": "0"}
+{"sentence": "下面我想了解，你的月经周期通常是多久？", "label": [], "symptom_description": "0"}
+{"sentence": "在你的经期内，流血通常持续几天，且强度如何？", "label": [], "symptom_description": "0"}
+{"sentence": "此外，你有过月经痛或者是周期性出现的乳房疼痛等症状吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "那么，进一步的问题是，您目前的血液粘稠度是怎样的？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "好的，那您最近的生活压力或者是否有情绪波动，例如，过度焦虑、压力增大或者睡眠质量下降等？", "label": ["ask_symptom", "ask_physical_change"], "symptom_description": "0"}
+{"sentence": "请问，您是否已经与您的医生讨论过关于添加阿司匹林或银杏叶的治疗方案？", "label": [], "symptom_description": "0"}
+{"sentence": "接下来我想问的是，你的孩子们有没有其他症状，比如呼吸困难，发热，嗓子痛或流鼻涕等症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "咳嗽有多久了？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "咳嗽是干咳还是湿咳？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "还有咳痰吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "在这背景下，我想了解一下，你的黑痣有没有这些变化？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "其大小，形状，颜色或是其他特性有没有发生改变？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "那么，儿子和女儿有没有过敏史，或是接触过可能导致过敏的物质，比如花粉、灰尘或宠物等？", "label": ["ask_allergic_history", "ask_contact_history"], "symptom_description": "0"}
+{"sentence": "那么，除了疼痛之外，你的痣有没有出现其他的新症状，例如出血、瘙痒、溢液、发红或肿胀等症状呢？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "首先，你是否发现这些小红包里面有液体，或者它们疼痛、瘙痒或者不适感吗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "这些信息解答了你的问题吗？", "label": [], "symptom_description": "0"}
+{"sentence": "还有别的我可以帮助的吗？", "label": [], "symptom_description": "0"}
+{"sentence": "如果你以后还有任何问题或需要健康咨询，随时可以向我提问。", "label": [], "symptom_description": "0"}
+{"sentence": "你的红包现象是否在性接触后的24小时内出现，还是延迟了几天？", "label": ["ask_coitus", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "能否详细描述一下这些小红包的形状和大小？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "它们是平坦的，还是比皮肤表面鼓起的？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "周围是否有红肿或者发炎的情况？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "请问您对这些药物过敏或有其他禁忌症吗？", "label": ["ask_allergic_history"], "symptom_description": "0"}
+{"sentence": "请问，您有出现过这些情况吗？", "label": [], "symptom_description": "0"}
+{"sentence": "这个数值是否以亿/L为单位？", "label": [], "symptom_description": "0"}
+{"sentence": "还有，您是否最近有感到疲劳，呼吸困难，皮肤苍白等症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "您的糖尿病控制得如何？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "请问，您长期均衡饮食吗？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "您的饮食中包含足够的铁，比如红肉和各种豆类等铁的来源了吗？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "请问您正在使用的抗真菌药是 oral（口服）还是 topical (局部使用）？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "接下来我想进一步询问一下，你感觉耳朵压力大的时候，有没有听力下降或者噪音出现的情况？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "您已经看过医生或者进行相关检查了吗？", "label": ["ask_receiving_treatment", "ask_medical_examination", "ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "首先，我想问一下，你提到的头部不适，包不包括头痛、头晕或者平衡问题？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "那你的耳痛或者耳朵发炎流脓的频率是多久一次？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "首先，这种情况是否一直持续，还是仅在特定的环境或情况下发生？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "那么接下来我想知道，您是否有任何长期的压力情况或者最近有任何心理压力的增加呢？", "label": ["ask_symptom_duration", "ask_symptom"], "symptom_description": "0"}
+{"sentence": "首先，你是否正在哺乳呢？", "label": [], "symptom_description": "0"}
+{"sentence": "但为了全面了解，我还想问一下，您有没有患过任何其他的长期疾病，例如糖尿病、高血压等等？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "你能描述一下这个青块的大小、颜色以及出现到现在的时间吗？", "label": ["ask_symptom_duration", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "为了做出更精确的判断，我有一个额外问题想要询问你：你的月经推迟时间大约多长？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "是否有全身疲乏，头发脱落的症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你是否有其他症状，例如感冒样的症状（发烧、喉咙痛等）、心悸、失眠、情绪变化等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "但是，由于你描述的青块颜色比较深，且面积较大，我想确认一下，这三天里青块的颜色有没有逐渐变浅？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "伴随疼痛吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "对于你的情况，我想知道以下几个问题，首先，你的药是由医生开出的还是自行购买的？", "label": [], "symptom_description": "0"}
+{"sentence": "那么你用药的效果如何？", "label": [], "symptom_description": "0"}
+{"sentence": "你的症状有改善吗？", "label": [], "symptom_description": "0"}
+{"sentence": "下一步，我想了解一下：你在服用这些药物多久后开始觉得一些症状改善的呢？", "label": [], "symptom_description": "0"}
+{"sentence": "了解了, 那么你最后一次月经是什么时候开始的呢？", "label": [], "symptom_description": "0"}
+{"sentence": "你有进行过任何形式的怀孕测试吗，比如使用孕妇试纸或者血液测试？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "你在吃伊曲康唑胶囊之后多久开始怀疑自己可能怀孕的？", "label": [], "symptom_description": "0"}
+{"sentence": "您的女儿是不是鼻子易堵塞，比如常有鼻炎或者过敏等问题？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你现在脱离患病状态了吗，比如是否存在感冒等症状？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "刮痧时是否感觉非常疼痛？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你有没有感觉到任何其他的不舒服或者有其他的症状，比如恶心、乳房疼痛、疲劳等?", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "下一个关键问题：您的女儿午睡或者平时小憩的时候，也会打呼吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你是否已经由医生确诊为脑梗死，并且正在服用特定的药物？", "label": ["ask_past_medication", "ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "尚有一个重要问题：您的女儿在日间是否经常表现得易疲劳，或者无论睡多少时间似乎都无法得到充足的休息？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "关于你是否需要做进一步的检查，你最近是否还注意到其他新的症状出现？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "例如体重改变、疲劳、情绪变化或无法解释的肌肉疼痛等？", "label": ["ask_symptom", "ask_physical_change"], "symptom_description": "0"}
+{"sentence": "给你提一个问题，你的出汗是在特定的情况下（例如运动、紧张、在热环境中）还是无论在任何情况下都会出汗？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "首先，您能详细描述一下胃部不适的情况吗？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "例如，不舒服的具体部位，是上腹部、中上腹部还是其他部位？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "疼痛的性质是钝痛、隐痛、刺痛还是烧灼痛？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "是否存在辐射痛，疼痛是否有恶化或缓解的因素？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "您的大便次数是否明显增多？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "大便的形状、颜色、气味是否有明显改变？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "有无带血或者明显的水样便？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "我想再询问一个问题：您有没有在饮食习惯上有什么明显的变化？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "比如最近有没有吃过什么不寻常的食物，或者改变了饮食的规律？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "首先，复发期间您使用过什么药物进行治疗呢？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "这个白斑随着时间的推移，是不是有变白或扩张的趋势呢？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "你有任何已知的其他健康问题或慢性疾病吗？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "例如糖尿病或者高血压？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "这块白斑在最初发生烫伤后多久开始出现的？", "label": [], "symptom_description": "0"}
+{"sentence": "你以前是否用过类固醇药物，比如强的松?如果用过，它对你的症状有帮助吗？", "label": ["ask_past_medication"], "symptom_description": "0"}
+{"sentence": "你是否有家族中有人患有白癜风或其他自身免疫性疾病的情况呢？", "label": ["ask_family_history"], "symptom_description": "0"}
+{"sentence": "首先，我想问一下，你的朋友的胸痛是持续存在的，还是偶尔出现？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "另外，是否有什么特定的活动会诱发或者加重他的胸痛？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "例如，他是否有过胸部的外伤史？", "label": ["ask_trauma_surgery"], "symptom_description": "0"}
+{"sentence": "除了胸痛外，他还有别的症状吗，如呼吸困难？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "接下来关于腰困，具体来说，你是否觉得在进行日常活动或者体力劳动后更加疲倦？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "还是说，无论做什么，你都感到疲劳和无力？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "为了更准确地了解你的情况，你能描述一下你的月经周期吗？", "label": [], "symptom_description": "0"}
+{"sentence": "例如，一般间隔多长时间，持续天数是多少，流量如何，以及是否有疼痛？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你的朋友的胸痛集中在特定的部位吗，例如靠近心脏的左侧，或在胸骨的中央，还是在右侧？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "这个瘙痒感是否持续存在，还是周期性的（例如，与月经周期有关）? 瘙痒的严重程度如何？", "label": ["ask_symptom_duration", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "是否与性行为有关？", "label": ["ask_coitus"], "symptom_description": "0"}
+{"sentence": "你是否觉得自己尿量增多，或者有口渴的感觉呢？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "单侧还是双侧脚踝肿胀？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "我想问一下，有没有在脚踝或者腿部做过影像学检查，像X光或者超声等？", "label": ["ask_medical_examination"], "symptom_description": "0"}
+{"sentence": "你是否感觉有疲倦，或者有任何关于你的体重、食欲、心情有变化的情况吗？", "label": ["ask_symptom", "ask_physical_change"], "symptom_description": "0"}
+{"sentence": "能否进一步详细描述一下你的脚部肿胀和疼痛的具体状况？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "例如：哪个区域最为肿胀或疼痛？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "疼痛是持续的还是间歇的？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "疼痛是钝痛、刺痛或其它类型的痛？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "行走、站立或者其它活动是否会使疼痛加剧？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "你是否有在晚上睡觉期间频繁醒来去排尿的情况，又或者是尿液的颜色、气味有异常变化吗？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "如果需要更多的信息，或者对其他问题有疑惑，随时向我询问。", "label": [], "symptom_description": "0"}
+{"sentence": "首先，你能否告诉我这个四岁孩子有没有其他症状，例如发热、尿频、尿痛、尿液浑浊或者异味、存在腹痛等的症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "您能告诉我孩子是否有发热的症状吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "第一个问题是，你的甲亢是否已完全治愈，目前是否有任何甲状腺功能相关的问题？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "接下来，我想了解一下孩子尿尿时是否感到疼痛或者不适？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "或者尿液有没有发现异常的颜色或者异味？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "请问你的麻木感到现在为止持续了多久？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "但我仍需进一步了解，除了唇部麻木，您有没有额外的症状，比如说咬合的困难，走路失平衡，或者其他的疼痛？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "下一个问题，您有没有感到其它身体部位不适，例如关节疼痛或肿胀，疲劳，皮肤硬化，乾口乾眼等症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "我接着想问，是否有任何家族成员也有类似的症状？", "label": ["ask_family_history"], "symptom_description": "0"}
+{"sentence": "还有，您的症状是否会在暖和的环境中或者用暖水泡手和脚后有所改善？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "但是为了更确切地了解您的情况，我有必要问一下，您在拔牙过程中感到非常疼痛吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "还是说感觉只有压力，但没有特别的疼痛？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "您的胸闷是持续的还是间歇的，是在某个特定的时间（比如做运动或者紧张时）更严重吗？", "label": ["ask_symptom_duration", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "它们包括流鼻涕吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "喉咙痛吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "咳嗽吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "并且是否有发烧？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "最后一个问题关于您的食欲：您最近有无明显的体重变化，例如体重下降？", "label": ["ask_physical_change"], "symptom_description": "0"}
+{"sentence": "是否有其他食物/饮食习惯的改变，比如对以前喜欢的食物忽然不感兴趣等？", "label": ["ask_living_habit"], "symptom_description": "0"}
+{"sentence": "首先，我想了解的是，您的大便硬吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "每次大便都会感到痛吗？", "label": ["ask_symptom", "ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "接下来，我想了解的是您的肛门处的这块肉颜色是否改变？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "变红或者变深的颜色？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "而且会有其他的异常感觉吗，比如瘙痒或者灼热感等？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "接下来，我想问的是，您所说的\"肉掉出来\"，在您站立或坐下等身体处于放松状态时，是否会自动回缩进去？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "还是需要在外部推入才能进去？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "或者在任何情况下都无法进去？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "此外，你说你感觉恶心，除了恶心，你有出现过呕吐的情况吗？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "你有体温测量仪吗？", "label": [], "symptom_description": "0"}
+{"sentence": "如果有，你的体温是多少？", "label": [], "symptom_description": "0"}
+{"sentence": "你是否有其他症状，比如喉咙痛，咳嗽或其他呼吸道症状？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "首先，我想确认一下您有没有慢性疾病，比如糖尿病、免疫系统疾病等？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}
+{"sentence": "关于褐色的分泌物，她是否还有其他相关症状，如疼痛，不适或出血量增加？", "label": ["ask_symptom"], "symptom_description": "0"}
+{"sentence": "接下来我想问：您发现溃疡时，是不是同时伴随有其他症状如，泡疹、流液、红肿、瘙痒等情况？", "label": ["ask_symptom_description_color"], "symptom_description": "1"}
+{"sentence": "您在发病期间有没有性行为？", "label": ["ask_coitus"], "symptom_description": "0"}
+{"sentence": "你的腹痛是在一天中的特定时段出现还是始终存在？", "label": ["ask_symptom_duration"], "symptom_description": "0"}
+{"sentence": "请问医生目前为止是否有给出黄体酮使用的预定结束时间？", "label": [], "symptom_description": "0"}
+{"sentence": "接下来，我想了解一下，你的体重最近有没有发生明显的变化？", "label": ["ask_physical_change"], "symptom_description": "0"}
+{"sentence": "您有无糖尿病、高血压或心脏病等慢性病史？", "label": ["ask_past_diagonsis"], "symptom_description": "0"}

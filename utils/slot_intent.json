@@ -1,0 +1,43 @@
+{
+    "slot": {
+        "1": "症状名称",
+        "2": "过往诊断",
+        "3": "过往用药",
+        "4": "身体变化",
+        "5": "外伤手术",
+        "6": "预防注射",
+        "7": "过敏史",
+        "8": "接触史",
+        "9": "家庭史",
+        "10": "生活习惯",
+        "11": "医学检查"
+    },
+    "intent": {
+        "0": "ask_symptom_duration",
+        "1": "ask_symptom_description_color",
+        "2": "ask_symptom_description_smell",
+        "3": "ask_symptom_description_degree",
+        "4": "ask_symptom_description_position",
+        "5": "ask_symptom_description_shape",
+        "6": "ask_symptom_description_time",
+        "7": "ask_coitus",
+        "8": "ask_tobacco",
+        "9": "ask_alcohol",
+        "10": "ask_drug",
+        "11": "ask_receiving_treatment",
+        "12": "ask_age",
+        "13": "ask_weight",
+        "14": "ask_gender",
+        "15": "ask_symptom",
+        "16": "ask_medical_examination",
+        "17": "ask_living_habit",
+        "18": "ask_past_medication",
+        "19": "ask_past_diagonsis",
+        "20": "ask_physical_change",
+        "21": "ask_trauma_surgery",
+        "22": "ask_preventive",
+        "23": "ask_allergic_history",
+        "24": "ask_contact_history",
+        "25": "ask_family_history"
+    }
+}
